@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2082484593471766531",
+    "created_at": "2026-07-31T08:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083110299763343420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1058185148",
+          "start": 0,
+          "username": "xiaotunovo0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083110299763343420",
+    "in_reply_to_user_id": "1058185148",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082484593471766531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaotunovo0 🤕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2082484593471766531",
+        "created_at": "2026-07-31T08:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083110299763343420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1058185148",
+              "start": 0,
+              "username": "xiaotunovo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083110299763343420",
+        "in_reply_to_user_id": "1058185148",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082484593471766531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaotunovo0 🤕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058185148",
+        "conversation_id": "2082484593471766531",
+        "created_at": "2026-07-29T15:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082484593471766531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082484593471766531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1548,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "本人由于幽灵ban😿\n秽土转生小小小号\n寻回互fo抽奖\n一等奖18.88r🥸🥸（1位\n二等奖8.88r🤓🤓（2位\n三等奖6.66r🤪🤪（4位\n❤️参与抽奖条件：关注点赞转帖留言谢谢喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 25,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-03T16:23:49.000Z",
+        "description": "苔藓/生长在阴暗潮湿的藻类生物\n鸡友@Curse8964\n宝宝们跟我互fo呀../我有精神疾病/od\n金属/核/二刺猿\n好想要同样属性的朋友😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "Curse8964"
+              }
+            ]
+          }
+        },
+        "id": "1058185148",
+        "location": "地狱",
+        "name": "苔藓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082479662048129024/xfMH5rVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 57,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "xiaotunovo0",
+        "verified": false
+      }
+    ]
+  }
+}

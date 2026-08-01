@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083176424081694726",
+    "created_at": "2026-07-31T13:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083176828622270527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2083081810859466752",
+          "start": 0,
+          "username": "yuzhazha69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083176828622270527",
+    "in_reply_to_user_id": "2083081810859466752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083176680525533369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzhazha69 你的朋友有点畜生了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083176424081694726",
+        "created_at": "2026-07-31T13:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083176828622270527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083081810859466752",
+              "start": 0,
+              "username": "yuzhazha69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083176828622270527",
+        "in_reply_to_user_id": "2083081810859466752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083176680525533369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzhazha69 你的朋友有点畜生了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083081810859466752",
+        "conversation_id": "2083176424081694726",
+        "created_at": "2026-07-31T13:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083176680525533369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1679905283068555265",
+              "start": 0,
+              "username": "yuda8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083176680525533369",
+        "in_reply_to_user_id": "1679905283068555265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083176521049805155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda8964 问我这么喜欢自残为什么不去跳楼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端主义  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 68,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-31T06:47:17.000Z",
+        "description": "4.0火乍玉\n妈妈@boqiaoahm4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "boqiaoahm4"
+              }
+            ]
+          }
+        },
+        "id": "2083081810859466752",
+        "name": "炸炸火乍玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083082423362031617/XGLgLscM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 24,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "yuzhazha69",
+        "verified": false
+      }
+    ]
+  }
+}

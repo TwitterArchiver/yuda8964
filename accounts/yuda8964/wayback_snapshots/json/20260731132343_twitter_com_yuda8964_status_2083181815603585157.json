@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083178986000335067",
+    "created_at": "2026-07-31T13:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083181815603585157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057835400790462464",
+          "start": 0,
+          "username": "kimika37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083181815603585157",
+    "in_reply_to_user_id": "2057835400790462464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083178986000335067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kimika37 宝子我也要吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2664,
+        "media_key": "3_2083178979239047168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjwPpUasAAXzzN.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083178986000335067",
+        "created_at": "2026-07-31T13:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083181815603585157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057835400790462464",
+              "start": 0,
+              "username": "kimika37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083181815603585157",
+        "in_reply_to_user_id": "2057835400790462464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083178986000335067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kimika37 宝子我也要吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083178979239047168"
+          ]
+        },
+        "author_id": "2057835400790462464",
+        "conversation_id": "2083178986000335067",
+        "created_at": "2026-07-31T13:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083178986000335067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p3mKsbuIl4",
+              "end": 69,
+              "expanded_url": "https://x.com/kimika37/status/2083178986000335067/photo/1",
+              "media_key": "3_2083178979239047168",
+              "start": 46,
+              "url": "https://t.co/p3mKsbuIl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083178986000335067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很奇怪为什么我230mg会没感觉，害得我又加了这么多，难道是因为我六天前吃了白兔的缘故吗 https://t.co/p3mKsbuIl4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端主义  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 71,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T14:46:19.000Z",
+        "description": "💊🔪🩸\n鸡友@xiaotunovo0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "xiaotunovo0"
+              }
+            ]
+          }
+        },
+        "id": "2057835400790462464",
+        "location": "天堂",
+        "name": "Curse✝2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083168051495895040/_oeSqACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 6,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "kimika37",
+        "verified": false
+      }
+    ]
+  }
+}

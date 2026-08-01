@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083208324527628514",
+    "created_at": "2026-07-31T15:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083208324527628514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1847515885638213632",
+          "start": 3,
+          "username": "MUQImumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083208324527628514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082864500630532315",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MUQImumu: 回来发现200fo了，谢谢大家喵；\n那就抽个奖喵\n给不愉快的灰暗生活调了一点色诶\n参照惯例抽个奖喵！\n一等奖一个：58.88r+定做小挂件一个\n二等奖一个：28.88r+小挂件一个\n三等奖三个：   8.88r+小挂件一个\n喵喵喵喵喵～～～～～\n转发…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 838,
+        "media_key": "3_2082864491893796866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfSOEqasAI1Mek.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083208324527628514",
+        "created_at": "2026-07-31T15:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083208324527628514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1847515885638213632",
+              "start": 3,
+              "username": "MUQImumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083208324527628514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082864500630532315",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MUQImumu: 回来发现200fo了，谢谢大家喵；\n那就抽个奖喵\n给不愉快的灰暗生活调了一点色诶\n参照惯例抽个奖喵！\n一等奖一个：58.88r+定做小挂件一个\n二等奖一个：28.88r+小挂件一个\n三等奖三个：   8.88r+小挂件一个\n喵喵喵喵喵～～～～～\n转发…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082864491893796866"
+          ]
+        },
+        "author_id": "1847515885638213632",
+        "conversation_id": "2082864500630532315",
+        "created_at": "2026-07-30T16:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082864500630532315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XrOWObJMrM",
+              "end": 187,
+              "expanded_url": "https://x.com/MUQImumu/status/2082864500630532315/photo/1",
+              "media_key": "3_2082864491893796866",
+              "start": 164,
+              "url": "https://t.co/XrOWObJMrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082864500630532315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3150,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 78,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "回来发现200fo了，谢谢大家喵；\n那就抽个奖喵\n给不愉快的灰暗生活调了一点色诶\n参照惯例抽个奖喵！\n一等奖一个：58.88r+定做小挂件一个\n二等奖一个：28.88r+小挂件一个\n三等奖三个：   8.88r+小挂件一个\n喵喵喵喵喵～～～～～\n转发评论点赞关注参与抽奖喵！\n8.8号12:00随机开奖！\n人数少于20延期喵～ https://t.co/XrOWObJMrM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端主义  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 82,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T05:51:54.000Z",
+        "description": "MTF🏳️‍⚧️｜小证含糖｜HRT 26.05.29🍬\n176 58kg｜缓慢加载中\n喜欢贴贴｜碎碎念｜互fo喵\n\n岁月献给小酒杯，借钱九出十三归。",
+        "id": "1847515885638213632",
+        "name": "沐᳐沐᳐೨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058107568984371201/xVN4_idf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 313,
+          "like_count": 349,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "MUQImumu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083106419793141760"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083106427909156969",
+    "created_at": "2026-07-31T08:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083106427909156969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lq8SzEqhzG",
+          "end": 49,
+          "expanded_url": "https://x.com/yuda8964/status/2083106427909156969/photo/1",
+          "media_key": "3_2083106419793141760",
+          "start": 26,
+          "url": "https://t.co/lq8SzEqhzG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083106427909156969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玉米大王二代目巡回互关\n前世马斯克迫害惨遭永封\n🤕 https://t.co/lq8SzEqhzG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 396,
+        "media_key": "3_2083106419793141760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiuQIUbIAAP19F.jpg",
+        "width": 420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083106419793141760"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083106427909156969",
+        "created_at": "2026-07-31T08:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083106427909156969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lq8SzEqhzG",
+              "end": 49,
+              "expanded_url": "https://x.com/yuda8964/status/2083106427909156969/photo/1",
+              "media_key": "3_2083106419793141760",
+              "start": 26,
+              "url": "https://t.co/lq8SzEqhzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083106427909156969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玉米大王二代目巡回互关\n前世马斯克迫害惨遭永封\n🤕 https://t.co/lq8SzEqhzG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      }
+    ]
+  }
+}

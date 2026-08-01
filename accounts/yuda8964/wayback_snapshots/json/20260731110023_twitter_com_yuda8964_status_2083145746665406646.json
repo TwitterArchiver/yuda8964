@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083145726692151296"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083145746665406646",
+    "created_at": "2026-07-31T11:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T12:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083145746665406646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/51HehA6efu",
+          "end": 30,
+          "expanded_url": "https://x.com/yuda8964/status/2083145746665406646/photo/1",
+          "media_key": "3_2083145726692151296",
+          "start": 7,
+          "url": "https://t.co/51HehA6efu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083145746665406646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "马斯克老牧师 https://t.co/51HehA6efu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "3_2083145726692151296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjSAF7b0AAnFn8.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083145726692151296"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083145746665406646",
+        "created_at": "2026-07-31T11:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083145746665406646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/51HehA6efu",
+              "end": 30,
+              "expanded_url": "https://x.com/yuda8964/status/2083145746665406646/photo/1",
+              "media_key": "3_2083145726692151296",
+              "start": 7,
+              "url": "https://t.co/51HehA6efu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083145746665406646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克老牧师 https://t.co/51HehA6efu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端主义  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 61,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083196413786403032",
+    "created_at": "2026-07-31T14:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083196413786403032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuda8964/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/yuda8964/status/2083106427909156969",
+          "start": 10,
+          "url": "https://t.co/cdPdq5NzoR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083196413786403032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083106427909156969",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帮我转一下这个帖子 https://t.co/cdPdq5NzoR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 396,
+        "media_key": "3_2083106419793141760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiuQIUbIAAP19F.jpg",
+        "width": 420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083196413786403032",
+        "created_at": "2026-07-31T14:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083196413786403032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuda8964/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/yuda8964/status/2083106427909156969",
+              "start": 10,
+              "url": "https://t.co/cdPdq5NzoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083196413786403032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083106427909156969",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮我转一下这个帖子 https://t.co/cdPdq5NzoR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083106419793141760"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083106427909156969",
+        "created_at": "2026-07-31T08:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083106427909156969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lq8SzEqhzG",
+              "end": 49,
+              "expanded_url": "https://x.com/yuda8964/status/2083106427909156969/photo/1",
+              "media_key": "3_2083106419793141760",
+              "start": 26,
+              "url": "https://t.co/lq8SzEqhzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083106427909156969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "玉米大王二代目巡回互关\n前世马斯克迫害惨遭永封\n🤕 https://t.co/lq8SzEqhzG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端主义  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 72,
+          "like_count": 555,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      }
+    ]
+  }
+}

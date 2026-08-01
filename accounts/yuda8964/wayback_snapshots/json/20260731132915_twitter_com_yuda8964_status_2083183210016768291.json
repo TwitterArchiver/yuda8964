@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083170679407714403",
+    "created_at": "2026-07-31T13:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083183210016768291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970865362368610304",
+          "start": 0,
+          "username": "Brandy322512322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083183210016768291",
+    "in_reply_to_user_id": "1970865362368610304",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083170679407714403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Brandy322512322 wo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083170679407714403",
+        "created_at": "2026-07-31T13:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083183210016768291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970865362368610304",
+              "start": 0,
+              "username": "Brandy322512322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083183210016768291",
+        "in_reply_to_user_id": "1970865362368610304",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083170679407714403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Brandy322512322 wo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970865362368610304",
+        "conversation_id": "2083170679407714403",
+        "created_at": "2026-07-31T12:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083170679407714403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083170679407714403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我记得我之前有个抽奖 但我忘记谁参加过了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端主义  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 72,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:58:20.000Z",
+        "description": "无我梦中                                                                                                    前世:@Donna1054957和@otxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Donna1054957"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "username": "otxiashu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/rAxtcjtivs"
+              }
+            ]
+          }
+        },
+        "id": "1970865362368610304",
+        "location": "沃尔库塔-5",
+        "name": "Ryoshu",
+        "pinned_tweet_id": "2082932544400769207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082721937508405249/1eGSC0rG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 34,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/rAxtcjtivs",
+        "username": "Brandy322512322",
+        "verified": false
+      }
+    ]
+  }
+}
