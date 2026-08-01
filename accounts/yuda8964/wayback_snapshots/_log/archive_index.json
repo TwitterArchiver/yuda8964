@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T18:37:14",
+  "last_updated": "2026-08-01T18:37:52",
   "html": {
     "https://web.archive.org/web/20260731083932if_/https://twitter.com/yuda8964/status/2083110299763343420": {
       "status": "done",
@@ -187,9 +187,9 @@
       "referenced_by": [
         "20260731140052_twitter_com_yuda8964_status_2083191165499945143.json"
       ],
-      "last_updated": "2026-08-01T17:16:00",
+      "last_updated": "2026-08-01T18:37:50",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260731140052/https://pbs.twimg.com/media/HOj7DjqaYAALfZL.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/media/HOfSOEqasAI1Mek.jpg": {
       "status": "done",
@@ -203,9 +203,9 @@
       "referenced_by": [
         "20260731161650_twitter_com_yuda8964_status_2083225385404424332.json"
       ],
-      "last_updated": "2026-08-01T17:15:58",
+      "last_updated": "2026-08-01T18:37:52",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260731161650/https://pbs.twimg.com/media/HOkaU1_bYAAhecc.png",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/media/HOkyDZtaYAARB_V.jpg": {
       "status": "done",
