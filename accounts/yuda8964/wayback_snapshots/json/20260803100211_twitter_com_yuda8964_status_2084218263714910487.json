@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075858792408035329"
+      ],
+      "media_source_tweet_id": [
+        "2075858807847363060"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084218263714910487",
+    "created_at": "2026-08-03T10:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084218263714910487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1953859279003561984",
+          "start": 3,
+          "username": "lingyugeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QKZkPyn3nU",
+          "end": 42,
+          "expanded_url": "https://x.com/lingyugeng/status/2075858807847363060/photo/1",
+          "media_key": "3_2075858792408035329",
+          "start": 19,
+          "url": "https://t.co/QKZkPyn3nU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084218263714910487",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075858807847363060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lingyugeng: 感受 https://t.co/QKZkPyn3nU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2075858792408035329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7uksVaMAEWTSW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075858792408035329"
+          ]
+        },
+        "author_id": "1953859279003561984",
+        "conversation_id": "2075858807847363060",
+        "created_at": "2026-07-11T08:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075858807847363060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QKZkPyn3nU",
+              "end": 26,
+              "expanded_url": "https://x.com/lingyugeng/status/2075858807847363060/photo/1",
+              "media_key": "3_2075858792408035329",
+              "start": 3,
+              "url": "https://t.co/QKZkPyn3nU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075858807847363060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4639,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "感受 https://t.co/QKZkPyn3nU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075858792408035329"
+          ],
+          "media_source_tweet_id": [
+            "2075858807847363060"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084218263714910487",
+        "created_at": "2026-08-03T10:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084218263714910487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1953859279003561984",
+              "start": 3,
+              "username": "lingyugeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QKZkPyn3nU",
+              "end": 42,
+              "expanded_url": "https://x.com/lingyugeng/status/2075858807847363060/photo/1",
+              "media_key": "3_2075858792408035329",
+              "start": 19,
+              "url": "https://t.co/QKZkPyn3nU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084218263714910487",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075858807847363060",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lingyugeng: 感受 https://t.co/QKZkPyn3nU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 168,
+          "like_count": 3565,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T16:42:26.000Z",
+        "description": "安徽/男/175/106/命比愈美苦三分/给我钱/",
+        "id": "1953859279003561984",
+        "name": "泡面和猫",
+        "pinned_tweet_id": "2075858807847363060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078552560940843008/3eFcKlQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 96,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 755
+        },
+        "url": "",
+        "username": "lingyugeng",
+        "verified": false
+      }
+    ]
+  }
+}

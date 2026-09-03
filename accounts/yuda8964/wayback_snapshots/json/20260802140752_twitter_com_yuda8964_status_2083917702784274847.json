@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083868149477449754",
+    "created_at": "2026-08-02T14:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083917702784274847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970865362368610304",
+          "start": 0,
+          "username": "Brandy322512322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083917702784274847",
+    "in_reply_to_user_id": "1970865362368610304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083915352262738152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Brandy322512322 可乐你还我普瑞巴林😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083868149477449754",
+        "created_at": "2026-08-02T14:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083917702784274847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970865362368610304",
+              "start": 0,
+              "username": "Brandy322512322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083917702784274847",
+        "in_reply_to_user_id": "1970865362368610304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083915352262738152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Brandy322512322 可乐你还我普瑞巴林😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970865362368610304",
+        "conversation_id": "2083868149477449754",
+        "created_at": "2026-08-02T13:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083915352262738152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1679905283068555265",
+              "start": 0,
+              "username": "yuda8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083915352262738152",
+        "in_reply_to_user_id": "1679905283068555265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083868149477449754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda8964 这不胡闹吗 全给可乐吃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 155,
+          "like_count": 2700,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:58:20.000Z",
+        "description": "无我梦中                                                                                                    前世:@Donna1054957和@otxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Donna1054957"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "username": "otxiashu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/rAxtcjtivs"
+              }
+            ]
+          }
+        },
+        "id": "1970865362368610304",
+        "location": "沃尔库塔-5",
+        "name": "Ryoshu",
+        "pinned_tweet_id": "2082727062536880534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082721937508405249/1eGSC0rG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 106,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 96
+        },
+        "url": "https://t.co/rAxtcjtivs",
+        "username": "Brandy322512322",
+        "verified": false
+      }
+    ]
+  }
+}

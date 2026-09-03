@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084652807710552406",
+    "created_at": "2026-08-04T14:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084654436358738259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942335596816670720",
+          "start": 0,
+          "username": "moyyyy0316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084654436358738259",
+    "in_reply_to_user_id": "1942335596816670720",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084652807710552406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moyyyy0316 👅👅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20200,
+        "height": 720,
+        "media_key": "13_2084652770855108608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084652770855108608/img/8Ozb8xI62IDBYceU.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084652770855108608/vid/avc1/480x270/O5b2o-d7jlsybpZm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084652770855108608/vid/avc1/640x360/Y9hT8haXzssM-mos.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084652770855108608/vid/avc1/1280x720/phgP2ByQXyZLvR3v.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084652770855108608/pl/MX8z_vc739MnIjMH.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084652807710552406",
+        "created_at": "2026-08-04T14:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084654436358738259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942335596816670720",
+              "start": 0,
+              "username": "moyyyy0316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084654436358738259",
+        "in_reply_to_user_id": "1942335596816670720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084652807710552406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moyyyy0316 👅👅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084652770855108608"
+          ]
+        },
+        "author_id": "1942335596816670720",
+        "conversation_id": "2084652807710552406",
+        "created_at": "2026-08-04T14:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084652807710552406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ba1DRSeGEx",
+              "end": 30,
+              "expanded_url": "https://x.com/moyyyy0316/status/2084652807710552406/video/1",
+              "media_key": "13_2084652770855108608",
+              "start": 7,
+              "url": "https://t.co/ba1DRSeGEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084652807710552406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是我引诱你吗 https://t.co/ba1DRSeGEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 176,
+          "like_count": 4971,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y(=^-ω-^=)\n欢迎来到困困殿下的朋友圈︱od💊︱自餐🔪︱ed︱互fo︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 204,
+          "like_count": 1212,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

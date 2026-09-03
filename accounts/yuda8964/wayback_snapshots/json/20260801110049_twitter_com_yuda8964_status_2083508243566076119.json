@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083499705632444416",
+        "3_2083499705653448704"
+      ],
+      "media_source_tweet_id": [
+        "2083499727128277389",
+        "2083499727128277389"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083508243566076119",
+    "created_at": "2026-08-01T11:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083508243566076119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2059326143640276992",
+          "start": 3,
+          "username": "Huhiosc3x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mn9jm6zQrN",
+          "end": 59,
+          "expanded_url": "https://x.com/Huhiosc3x/status/2083499727128277389/photo/1",
+          "media_key": "3_2083499705632444416",
+          "start": 36,
+          "url": "https://t.co/Mn9jm6zQrN"
+        },
+        {
+          "display_url": "pic.x.com/Mn9jm6zQrN",
+          "end": 59,
+          "expanded_url": "https://x.com/Huhiosc3x/status/2083499727128277389/photo/1",
+          "media_key": "3_2083499705653448704",
+          "start": 36,
+          "url": "https://t.co/Mn9jm6zQrN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083508243566076119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083499727128277389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Huhiosc3x: 稿件展示呀，有没有人想约我30r的稿子！ https://t.co/Mn9jm6zQrN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083499705632444416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoT8YPaUAAo_2f.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2083499705653448704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoT8YUa0AAW7QF.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083499705632444416",
+            "3_2083499705653448704"
+          ]
+        },
+        "author_id": "2059326143640276992",
+        "conversation_id": "2083499727128277389",
+        "created_at": "2026-08-01T10:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083499727128277389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mn9jm6zQrN",
+              "end": 44,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2083499727128277389/photo/1",
+              "media_key": "3_2083499705632444416",
+              "start": 21,
+              "url": "https://t.co/Mn9jm6zQrN"
+            },
+            {
+              "display_url": "pic.x.com/Mn9jm6zQrN",
+              "end": 44,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2083499727128277389/photo/1",
+              "media_key": "3_2083499705653448704",
+              "start": 21,
+              "url": "https://t.co/Mn9jm6zQrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083499727128277389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "稿件展示呀，有没有人想约我30r的稿子！ https://t.co/Mn9jm6zQrN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083499705632444416",
+            "3_2083499705653448704"
+          ],
+          "media_source_tweet_id": [
+            "2083499727128277389",
+            "2083499727128277389"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083508243566076119",
+        "created_at": "2026-08-01T11:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083508243566076119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2059326143640276992",
+              "start": 3,
+              "username": "Huhiosc3x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mn9jm6zQrN",
+              "end": 59,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2083499727128277389/photo/1",
+              "media_key": "3_2083499705632444416",
+              "start": 36,
+              "url": "https://t.co/Mn9jm6zQrN"
+            },
+            {
+              "display_url": "pic.x.com/Mn9jm6zQrN",
+              "end": 59,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2083499727128277389/photo/1",
+              "media_key": "3_2083499705653448704",
+              "start": 36,
+              "url": "https://t.co/Mn9jm6zQrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083508243566076119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083499727128277389",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Huhiosc3x: 稿件展示呀，有没有人想约我30r的稿子！ https://t.co/Mn9jm6zQrN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 120,
+          "like_count": 1515,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T17:32:17.000Z",
+        "description": "可以叫我hh｜同类互fo大欢迎｜被禁评了回复用引用｜餐券顺女，友跨｜清了波没有回关的如果有误清请务必私信告知我！不会单取任何人！",
+        "id": "2059326143640276992",
+        "name": "Huhio",
+        "pinned_tweet_id": "2082781051978735903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059327200395190273/aPIop2p8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 206,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1053
+        },
+        "url": "",
+        "username": "Huhiosc3x",
+        "verified": false
+      }
+    ]
+  }
+}

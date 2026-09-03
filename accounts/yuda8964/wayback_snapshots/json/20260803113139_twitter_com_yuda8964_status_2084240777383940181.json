@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084240124532150748",
+    "created_at": "2026-08-03T11:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084240777383940181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677250155886829568",
+          "start": 0,
+          "username": "zifenthree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084240777383940181",
+    "in_reply_to_user_id": "1677250155886829568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084240124532150748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zifenthree 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084240124532150748",
+        "created_at": "2026-08-03T11:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084240777383940181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677250155886829568",
+              "start": 0,
+              "username": "zifenthree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084240777383940181",
+        "in_reply_to_user_id": "1677250155886829568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084240124532150748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zifenthree 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677250155886829568",
+        "conversation_id": "2084240124532150748",
+        "created_at": "2026-08-03T11:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084240124532150748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084240124532150748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "极兔和圆通能不能直接倒闭 每次到的最慢的就是这俩 派送最慢的也是这俩 我还头一次见到派送送一天送到驿站门都关了还没到的🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 171,
+          "like_count": 3711,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T09:36:22.000Z",
+        "description": "09 心理男生理男 oder 瘾君子 大毒枭 健全逼没有任何心理疾病 纯爱磕",
+        "id": "1677250155886829568",
+        "name": "自分 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083544615509225472/G7R9orI-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 46,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "zifenthree",
+        "verified": true
+      }
+    ]
+  }
+}

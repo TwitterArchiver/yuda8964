@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083152050767229358",
+    "created_at": "2026-07-31T11:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T12:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083152050767229358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2075442249912176640",
+          "start": 3,
+          "username": "Angelkw0y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083152050767229358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083147192639041870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angelkw0y: Naomin二代魂兮归来😅前世被奸人所害，重生之我死性不改😅😅😅为了预防万一这个号不会再发任何的照片了，求各位帮我转发助我找回前世亲友🥺❤️我爱你们🥺❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083152050767229358",
+        "created_at": "2026-07-31T11:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083152050767229358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2075442249912176640",
+              "start": 3,
+              "username": "Angelkw0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083152050767229358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083147192639041870",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angelkw0y: Naomin二代魂兮归来😅前世被奸人所害，重生之我死性不改😅😅😅为了预防万一这个号不会再发任何的照片了，求各位帮我转发助我找回前世亲友🥺❤️我爱你们🥺❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075442249912176640",
+        "conversation_id": "2083147192639041870",
+        "created_at": "2026-07-31T11:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083147192639041870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083147192639041870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Naomin二代魂兮归来😅前世被奸人所害，重生之我死性不改😅😅😅为了预防万一这个号不会再发任何的照片了，求各位帮我转发助我找回前世亲友🥺❤️我爱你们🥺❤️❤️❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端主义  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 63,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-10T04:51:19.000Z",
+        "description": "Naomin二代，永不言弃\n你们的转发和点赞都会化作我的羽翼❤️\n助我找回前世今生❤️",
+        "id": "2075442249912176640",
+        "name": "Naominてんし💵✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083149332610707456/qZriKP6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 24,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "Angelkw0y",
+        "verified": false
+      }
+    ]
+  }
+}

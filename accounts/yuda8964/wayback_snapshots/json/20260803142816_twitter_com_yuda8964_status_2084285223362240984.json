@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084285211588853761"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084285223362240984",
+    "created_at": "2026-08-03T14:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084285223362240984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GKAh07FY1L",
+          "end": 34,
+          "expanded_url": "https://x.com/yuda8964/status/2084285223362240984/photo/1",
+          "media_key": "3_2084285211588853761",
+          "start": 11,
+          "url": "https://t.co/GKAh07FY1L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084285223362240984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "贾宝玉  床缝在哪里 https://t.co/GKAh07FY1L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 704,
+        "media_key": "3_2084285211588853761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzeW19agAE7yNN.jpg",
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084285211588853761"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084285223362240984",
+        "created_at": "2026-08-03T14:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084285223362240984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKAh07FY1L",
+              "end": 34,
+              "expanded_url": "https://x.com/yuda8964/status/2084285223362240984/photo/1",
+              "media_key": "3_2084285211588853761",
+              "start": 11,
+              "url": "https://t.co/GKAh07FY1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084285223362240984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贾宝玉  床缝在哪里 https://t.co/GKAh07FY1L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 173,
+          "like_count": 3880,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 378
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084542287175106560"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084542302513676714",
+    "created_at": "2026-08-04T07:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084542302513676714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rc1RMZ0CbT",
+          "end": 25,
+          "expanded_url": "https://x.com/yuda8964/status/2084542302513676714/photo/1",
+          "media_key": "3_2084542287175106560",
+          "start": 2,
+          "url": "https://t.co/Rc1RMZ0CbT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084542302513676714",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👻 https://t.co/Rc1RMZ0CbT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 296,
+        "media_key": "3_2084542287175106560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3IKnJaQAADgLv.jpg",
+        "width": 2068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084542287175106560"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084542302513676714",
+        "created_at": "2026-08-04T07:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084542302513676714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rc1RMZ0CbT",
+              "end": 25,
+              "expanded_url": "https://x.com/yuda8964/status/2084542302513676714/photo/1",
+              "media_key": "3_2084542287175106560",
+              "start": 2,
+              "url": "https://t.co/Rc1RMZ0CbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084542302513676714",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👻 https://t.co/Rc1RMZ0CbT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 179,
+          "like_count": 4483,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      }
+    ]
+  }
+}

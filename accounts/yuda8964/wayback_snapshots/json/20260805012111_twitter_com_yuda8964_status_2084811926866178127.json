@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084658501968904612",
+    "created_at": "2026-08-05T01:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T02:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084811926866178127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1788078738720038913",
+          "start": 0,
+          "username": "chandao777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084811926866178127",
+    "in_reply_to_user_id": "1788078738720038913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084811599681118387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chandao777 来我家给你喝（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084658501968904612",
+        "created_at": "2026-08-05T01:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084811926866178127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788078738720038913",
+              "start": 0,
+              "username": "chandao777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084811926866178127",
+        "in_reply_to_user_id": "1788078738720038913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084811599681118387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chandao777 来我家给你喝（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788078738720038913",
+        "conversation_id": "2084658501968904612",
+        "created_at": "2026-08-05T01:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084811599681118387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1679905283068555265",
+              "start": 0,
+              "username": "yuda8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084811599681118387",
+        "in_reply_to_user_id": "1679905283068555265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084658501968904612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda8964 给我来一瓶喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 183,
+          "like_count": 5309,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 481
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T05:29:40.000Z",
+        "description": "如果喜欢我请打钱给我🚪99只收口令/出原味/",
+        "id": "1788078738720038913",
+        "name": "腹上死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788234357456379905/w1vUdENT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 45,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "chandao777",
+        "verified": false
+      }
+    ]
+  }
+}

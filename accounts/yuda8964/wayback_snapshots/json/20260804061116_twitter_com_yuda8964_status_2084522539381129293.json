@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084521716823494858",
+    "created_at": "2026-08-04T06:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T07:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084522539381129293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2073422551972466689",
+          "start": 0,
+          "username": "Yzrhgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084522539381129293",
+    "in_reply_to_user_id": "2073422551972466689",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084521716823494858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yzrhgg 😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2084521703485632512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO21ce7acAA_ipQ.jpg",
+        "width": 1201
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084521716823494858",
+        "created_at": "2026-08-04T06:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084522539381129293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2073422551972466689",
+              "start": 0,
+              "username": "Yzrhgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084522539381129293",
+        "in_reply_to_user_id": "2073422551972466689",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084521716823494858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yzrhgg 😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084521703485632512"
+          ]
+        },
+        "author_id": "2073422551972466689",
+        "conversation_id": "2084521716823494858",
+        "created_at": "2026-08-04T06:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084521716823494858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QAOhxY9vbj",
+              "end": 45,
+              "expanded_url": "https://x.com/Yzrhgg/status/2084521716823494858/photo/1",
+              "media_key": "3_2084521703485632512",
+              "start": 22,
+              "url": "https://t.co/QAOhxY9vbj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084521716823494858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到这条推文的推油\n我不会告诉你任何事情～ https://t.co/QAOhxY9vbj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 179,
+          "like_count": 4388,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 401
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-04T15:05:34.000Z",
+        "description": "时常感到无聊，欢迎找我聊天\n互fo\n不时发些碎碎念",
+        "id": "2073422551972466689",
+        "location": "星星",
+        "name": "退屈党人",
+        "pinned_tweet_id": "2074104382912864345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073424909980901376/ap3GnRYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 70,
+          "like_count": 1569,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "Yzrhgg",
+        "verified": false
+      }
+    ]
+  }
+}

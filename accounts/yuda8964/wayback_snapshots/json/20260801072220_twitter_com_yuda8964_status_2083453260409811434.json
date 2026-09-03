@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083452015041224705",
+        "3_2083452015045468160"
+      ],
+      "media_source_tweet_id": [
+        "2083452030560108689",
+        "2083452030560108689"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083453260409811434",
+    "created_at": "2026-08-01T07:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083453260409811434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2072375562291875840",
+          "start": 3,
+          "username": "cpa1cap"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sutxwtiVnj",
+          "end": 96,
+          "expanded_url": "https://x.com/cpa1cap/status/2083452030560108689/photo/1",
+          "media_key": "3_2083452015041224705",
+          "start": 73,
+          "url": "https://t.co/sutxwtiVnj"
+        },
+        {
+          "display_url": "pic.x.com/sutxwtiVnj",
+          "end": 96,
+          "expanded_url": "https://x.com/cpa1cap/status/2083452030560108689/photo/1",
+          "media_key": "3_2083452015045468160",
+          "start": 73,
+          "url": "https://t.co/sutxwtiVnj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083453260409811434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083452030560108689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cpa1cap: 旧号因药物分享被msk无情封禁，寻回互关中，在苟活一段时间吧\n\n法学在读，无偿提供各种法律和药物分享，欢迎互fo交友🥰 https://t.co/sutxwtiVnj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1757,
+        "media_key": "3_2083452015041224705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnoka8aoAEdEqX.jpg",
+        "width": 1179
+      },
+      {
+        "height": 541,
+        "media_key": "3_2083452015045468160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnoka9bYAAUwdU.jpg",
+        "width": 406
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083452015041224705",
+            "3_2083452015045468160"
+          ]
+        },
+        "author_id": "2072375562291875840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083452030560108689",
+        "created_at": "2026-08-01T07:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083452030560108689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sutxwtiVnj",
+              "end": 83,
+              "expanded_url": "https://x.com/cpa1cap/status/2083452030560108689/photo/1",
+              "media_key": "3_2083452015041224705",
+              "start": 60,
+              "url": "https://t.co/sutxwtiVnj"
+            },
+            {
+              "display_url": "pic.x.com/sutxwtiVnj",
+              "end": 83,
+              "expanded_url": "https://x.com/cpa1cap/status/2083452030560108689/photo/1",
+              "media_key": "3_2083452015045468160",
+              "start": 60,
+              "url": "https://t.co/sutxwtiVnj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083452030560108689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "旧号因药物分享被msk无情封禁，寻回互关中，在苟活一段时间吧\n\n法学在读，无偿提供各种法律和药物分享，欢迎互fo交友🥰 https://t.co/sutxwtiVnj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083452015041224705",
+            "3_2083452015045468160"
+          ],
+          "media_source_tweet_id": [
+            "2083452030560108689",
+            "2083452030560108689"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083453260409811434",
+        "created_at": "2026-08-01T07:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083453260409811434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2072375562291875840",
+              "start": 3,
+              "username": "cpa1cap"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sutxwtiVnj",
+              "end": 96,
+              "expanded_url": "https://x.com/cpa1cap/status/2083452030560108689/photo/1",
+              "media_key": "3_2083452015041224705",
+              "start": 73,
+              "url": "https://t.co/sutxwtiVnj"
+            },
+            {
+              "display_url": "pic.x.com/sutxwtiVnj",
+              "end": 96,
+              "expanded_url": "https://x.com/cpa1cap/status/2083452030560108689/photo/1",
+              "media_key": "3_2083452015045468160",
+              "start": 73,
+              "url": "https://t.co/sutxwtiVnj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083453260409811434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083452030560108689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cpa1cap: 旧号因药物分享被msk无情封禁，寻回互关中，在苟活一段时间吧\n\n法学在读，无偿提供各种法律和药物分享，欢迎互fo交友🥰 https://t.co/sutxwtiVnj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 112,
+          "like_count": 1266,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T17:45:42.000Z",
+        "description": "这都是要应验的，不要干这种事情（寻回互fo）",
+        "id": "2072375562291875840",
+        "name": "担麦人2.0",
+        "pinned_tweet_id": "2083452030560108689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077631929177018368/2idksFae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 120,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "cpa1cap",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083665639227768929",
+    "created_at": "2026-08-02T02:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T03:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083748290441752622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1772860258710622208",
+          "start": 0,
+          "username": "xxxixixmwt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083748290441752622",
+    "in_reply_to_user_id": "1772860258710622208",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083665639227768929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxixixmwt 😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3101,
+        "media_key": "3_2083665607182987264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqq1HrXMAAQ5rW.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2083665622894829568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqq2CNW4AAGSeJ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083665639227768929",
+        "created_at": "2026-08-02T02:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083748290441752622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1772860258710622208",
+              "start": 0,
+              "username": "xxxixixmwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083748290441752622",
+        "in_reply_to_user_id": "1772860258710622208",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083665639227768929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxixixmwt 😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083665607182987264",
+            "3_2083665622894829568"
+          ]
+        },
+        "author_id": "1772860258710622208",
+        "conversation_id": "2083665639227768929",
+        "created_at": "2026-08-01T21:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083665639227768929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WZhVmMpAge",
+              "end": 143,
+              "expanded_url": "https://x.com/xxxixixmwt/status/2083665639227768929/photo/1",
+              "media_key": "3_2083665607182987264",
+              "start": 120,
+              "url": "https://t.co/WZhVmMpAge"
+            },
+            {
+              "display_url": "pic.x.com/WZhVmMpAge",
+              "end": 143,
+              "expanded_url": "https://x.com/xxxixixmwt/status/2083665639227768929/photo/1",
+              "media_key": "3_2083665622894829568",
+              "start": 120,
+              "url": "https://t.co/WZhVmMpAge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083665639227768929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2026.8.2\n我的痛苦超出了我的承受范围\n心理 精神 肉体 都异常的疲惫几乎没有一天能睡个好觉 我总在想 想我的人生 想我的感情 想各种各样的错误 我想跪下来求命运垂怜 发现比膝盖先落地的是我的眼泪 他们看不到我的眼泪  你也看不见吗 https://t.co/WZhVmMpAge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 138,
+          "like_count": 1868,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T05:36:52.000Z",
+        "description": "叫我笑笑｜无限期休学躺平｜od割手｜双相情感障碍｜沢田纲吉孝女｜同类互fo｜第二人格@xxbxixi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "xxbxixi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xmimi42164",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xmimi42164",
+                "start": 0,
+                "url": "https://t.co/AZm1US1O7D"
+              }
+            ]
+          }
+        },
+        "id": "1772860258710622208",
+        "name": "网警",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031747411186728961/1nfqo_AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 180,
+          "like_count": 3828,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1661
+        },
+        "url": "https://t.co/AZm1US1O7D",
+        "username": "xxxixixmwt",
+        "verified": false
+      }
+    ]
+  }
+}

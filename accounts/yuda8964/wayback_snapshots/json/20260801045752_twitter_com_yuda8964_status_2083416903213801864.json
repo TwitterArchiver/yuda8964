@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083412229102481876",
+    "created_at": "2026-08-01T04:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083416903213801864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2083093612309721088",
+          "start": 0,
+          "username": "lvyang5100668"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083416903213801864",
+    "in_reply_to_user_id": "2083093612309721088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083412229102481876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lvyang5100668 东北人永远不老"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083412229102481876",
+        "created_at": "2026-08-01T04:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083416903213801864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2083093612309721088",
+              "start": 0,
+              "username": "lvyang5100668"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083416903213801864",
+        "in_reply_to_user_id": "2083093612309721088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083412229102481876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lvyang5100668 东北人永远不老"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083093612309721088",
+        "conversation_id": "2083412229102481876",
+        "created_at": "2026-08-01T04:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083412229102481876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083412229102481876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然意识到自己老了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 112,
+          "like_count": 1052,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-31T07:34:04.000Z",
+        "description": "我服了号被封了，寻回互fo中。",
+        "id": "2083093612309721088",
+        "location": "250m",
+        "name": "屑鱼屑屑",
+        "pinned_tweet_id": "2083094712270078338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083094102082797568/UqrVhPv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 85,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "lvyang5100668",
+        "verified": false
+      }
+    ]
+  }
+}

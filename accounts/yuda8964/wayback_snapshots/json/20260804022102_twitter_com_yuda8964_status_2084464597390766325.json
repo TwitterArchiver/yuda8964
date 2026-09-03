@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084464591212544000"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084464597390766325",
+    "created_at": "2026-08-04T02:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T03:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084464597390766325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yK6O8Qn83Q",
+          "end": 29,
+          "expanded_url": "https://x.com/yuda8964/status/2084464597390766325/photo/1",
+          "media_key": "3_2084464591212544000",
+          "start": 6,
+          "url": "https://t.co/yK6O8Qn83Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084464597390766325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刀枪炮等掉 https://t.co/yK6O8Qn83Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_2084464591212544000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2BgHIagAAwqaE.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084464591212544000"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084464597390766325",
+        "created_at": "2026-08-04T02:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084464597390766325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yK6O8Qn83Q",
+              "end": 29,
+              "expanded_url": "https://x.com/yuda8964/status/2084464597390766325/photo/1",
+              "media_key": "3_2084464591212544000",
+              "start": 6,
+              "url": "https://t.co/yK6O8Qn83Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084464597390766325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刀枪炮等掉 https://t.co/yK6O8Qn83Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 178,
+          "like_count": 4083,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      }
+    ]
+  }
+}

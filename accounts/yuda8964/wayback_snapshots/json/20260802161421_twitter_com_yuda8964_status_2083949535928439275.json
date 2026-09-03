@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083949535928439275",
+    "created_at": "2026-08-02T16:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083949535928439275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hongdougao_hon…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/hongdougao_hong/status/2083943815631843350",
+          "start": 16,
+          "url": "https://t.co/NKPMeaQa9o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083949535928439275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083943815631843350",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来今天不是世界末日吗，好失望 https://t.co/NKPMeaQa9o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083949535928439275",
+        "created_at": "2026-08-02T16:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083949535928439275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hongdougao_hon…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/hongdougao_hong/status/2083943815631843350",
+              "start": 16,
+              "url": "https://t.co/NKPMeaQa9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083949535928439275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083943815631843350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来今天不是世界末日吗，好失望 https://t.co/NKPMeaQa9o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2083943815631843350",
+        "created_at": "2026-08-02T15:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083943815631843350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nixyng246039/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/nixyng246039/status/2083855504263324091",
+              "start": 16,
+              "url": "https://t.co/66aUpOhjQA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083943815631843350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083855504263324091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天原来不是世界末日吗，好失望 https://t.co/66aUpOhjQA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 158,
+          "like_count": 2889,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 210,
+          "like_count": 2726,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1426
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083278214613577783",
+    "created_at": "2026-07-31T19:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T20:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083278451323322474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1953859279003561984",
+          "start": 0,
+          "username": "lingyugeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083278451323322474",
+    "in_reply_to_user_id": "1953859279003561984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083278214613577783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingyugeng 我点了怎么没反应啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2083278205453217792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOlKfXxaMAA-xvw.jpg",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083278214613577783",
+        "created_at": "2026-07-31T19:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083278451323322474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1953859279003561984",
+              "start": 0,
+              "username": "lingyugeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083278451323322474",
+        "in_reply_to_user_id": "1953859279003561984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083278214613577783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingyugeng 我点了怎么没反应啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083278205453217792"
+          ]
+        },
+        "author_id": "1953859279003561984",
+        "conversation_id": "2083278214613577783",
+        "created_at": "2026-07-31T19:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083278214613577783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lflA1ZqN5M",
+              "end": 23,
+              "expanded_url": "https://x.com/lingyugeng/status/2083278214613577783/photo/1",
+              "media_key": "3_2083278205453217792",
+              "start": 0,
+              "url": "https://t.co/lflA1ZqN5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083278214613577783",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lflA1ZqN5M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 95,
+          "like_count": 934,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T16:42:26.000Z",
+        "description": "宅/安徽/男/175/106/命比愈美苦三分/给我钱",
+        "id": "1953859279003561984",
+        "name": "泡面和猫",
+        "pinned_tweet_id": "2075858807847363060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078552560940843008/3eFcKlQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 91,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 708
+        },
+        "url": "",
+        "username": "lingyugeng",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084870022506459137"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084870034074284471",
+    "created_at": "2026-08-05T05:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084870034074284471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q5a1WrBMGh",
+          "end": 34,
+          "expanded_url": "https://x.com/yuda8964/status/2084870034074284471/photo/1",
+          "media_key": "3_2084870022506459137",
+          "start": 11,
+          "url": "https://t.co/Q5a1WrBMGh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084870034074284471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来我兄弟是个猫娘🤤 https://t.co/Q5a1WrBMGh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1285,
+        "media_key": "3_2084870022506459137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7yPUZbsAEg5vb.jpg",
+        "width": 1281
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084870022506459137"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084870034074284471",
+        "created_at": "2026-08-05T05:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084870034074284471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q5a1WrBMGh",
+              "end": 34,
+              "expanded_url": "https://x.com/yuda8964/status/2084870034074284471/photo/1",
+              "media_key": "3_2084870022506459137",
+              "start": 11,
+              "url": "https://t.co/Q5a1WrBMGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084870034074284471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来我兄弟是个猫娘🤤 https://t.co/Q5a1WrBMGh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 186,
+          "like_count": 5482,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 495
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      }
+    ]
+  }
+}

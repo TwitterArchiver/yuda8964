@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083582252316078309",
+    "created_at": "2026-08-01T15:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083583005139095731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026321384042004480",
+          "start": 0,
+          "username": "jiu79171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083583005139095731",
+    "in_reply_to_user_id": "2026321384042004480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083582252316078309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu79171 看到这条帖子导致我也想吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083582252316078309",
+        "created_at": "2026-08-01T15:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083583005139095731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026321384042004480",
+              "start": 0,
+              "username": "jiu79171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083583005139095731",
+        "in_reply_to_user_id": "2026321384042004480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083582252316078309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu79171 看到这条帖子导致我也想吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026321384042004480",
+        "conversation_id": "2083582252316078309",
+        "created_at": "2026-08-01T15:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083582252316078309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083582252316078309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "23:54剧烈想吃火坤面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 132,
+          "like_count": 1849,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 189
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T15:40:52.000Z",
+        "description": "二号机@buzhidao2738\n可以叫我不知道｜割o一体机，但都不频繁，已被现生绑架状态🩸💊\n支持互fo｜聊天大欢迎｜形象切换频繁之人⛓️\n无固定人设，可以把我当成刚从棺材里爬出来的千年老干尸⚰️｜至于性别和性取向嘛…其实我是水母，我不需要考虑这些🪼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "buzhidao2738"
+              }
+            ]
+          }
+        },
+        "id": "2026321384042004480",
+        "name": "不知道",
+        "pinned_tweet_id": "2041766291791569150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026321804248444928/fooAhUCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 14,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "jiu79171",
+        "verified": false
+      }
+    ]
+  }
+}

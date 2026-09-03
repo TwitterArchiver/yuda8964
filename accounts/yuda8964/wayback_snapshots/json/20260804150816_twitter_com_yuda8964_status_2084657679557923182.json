@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084656554205450513",
+    "created_at": "2026-08-04T15:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084657679557923182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1817361351494467584",
+          "start": 0,
+          "username": "resa87125"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084657679557923182",
+    "in_reply_to_user_id": "1817361351494467584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084657521621647554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@resa87125 我是你的克隆体🤖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084656554205450513",
+        "created_at": "2026-08-04T15:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084657679557923182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1817361351494467584",
+              "start": 0,
+              "username": "resa87125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084657679557923182",
+        "in_reply_to_user_id": "1817361351494467584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084657521621647554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@resa87125 我是你的克隆体🤖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817361351494467584",
+        "conversation_id": "2084656554205450513",
+        "created_at": "2026-08-04T15:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084657521621647554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1679905283068555265",
+              "start": 0,
+              "username": "yuda8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084657521621647554",
+        "in_reply_to_user_id": "1679905283068555265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084656554205450513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda8964 为什么你的手跟我的简直一模一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 177,
+          "like_count": 4986,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 451
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T00:49:29.000Z",
+        "description": "可以直接称呼id/或者称呼S/无性恋/生理性别女/心理无性别/随时可以找我唠除了顺性别相关的一切话题/可提供有困难的人资金援助//顺男别来恶心我/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/void87214",
+                "end": 23,
+                "expanded_url": "http://ngl.link/void87214",
+                "start": 0,
+                "url": "https://t.co/tEfgMsM9pd"
+              }
+            ]
+          }
+        },
+        "id": "1817361351494467584",
+        "location": "HELL",
+        "name": "Sare🖤🩶🤍💜",
+        "pinned_tweet_id": "2077225086109770044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055743557710004224/K-DCgKBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 107,
+          "like_count": 1545,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 526
+        },
+        "url": "https://t.co/tEfgMsM9pd",
+        "username": "resa87125",
+        "verified": false
+      }
+    ]
+  }
+}

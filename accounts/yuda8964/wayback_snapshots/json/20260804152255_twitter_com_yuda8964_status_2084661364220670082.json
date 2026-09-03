@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084656554205450513",
+    "created_at": "2026-08-04T15:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084661364220670082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2069991040744824832",
+          "start": 0,
+          "username": "imqrmrtvom1lkt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084661364220670082",
+    "in_reply_to_user_id": "2069991040744824832",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084661247476367441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imqrmrtvom1lkt Oh no😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084656554205450513",
+        "created_at": "2026-08-04T15:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084661364220670082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2069991040744824832",
+              "start": 0,
+              "username": "imqrmrtvom1lkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084661364220670082",
+        "in_reply_to_user_id": "2069991040744824832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084661247476367441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imqrmrtvom1lkt Oh no😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069991040744824832",
+        "conversation_id": "2084656554205450513",
+        "created_at": "2026-08-04T15:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084661247476367441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1679905283068555265",
+              "start": 0,
+              "username": "yuda8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084661247476367441",
+        "in_reply_to_user_id": "1679905283068555265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084656554205450513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda8964 马斯克火速赶来中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 177,
+          "like_count": 5029,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-25T03:49:12.000Z",
+        "description": "备用号/5.0：@SRamirez66171 /7.0：@NicoleTravabgk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "NicoleTravabgk"
+              }
+            ]
+          }
+        },
+        "id": "2069991040744824832",
+        "name": "洛6.0",
+        "pinned_tweet_id": "2084654572006723713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083449325880012800/-NgYPbW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 26,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "imqrmrtvom1lkt",
+        "verified": false
+      }
+    ]
+  }
+}

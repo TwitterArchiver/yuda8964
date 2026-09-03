@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083586452336836608"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083586461560193502",
+    "created_at": "2026-08-01T16:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083586461560193502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HOnW9kXlNl",
+          "end": 34,
+          "expanded_url": "https://x.com/yuda8964/status/2083586461560193502/photo/1",
+          "media_key": "3_2083586452336836608",
+          "start": 11,
+          "url": "https://t.co/HOnW9kXlNl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083586461560193502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "学海无涯啊兄弟姐妹们 https://t.co/HOnW9kXlNl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 634,
+        "media_key": "3_2083586452336836608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpi1s5agAAJUqz.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083586452336836608"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083586461560193502",
+        "created_at": "2026-08-01T16:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083586461560193502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOnW9kXlNl",
+              "end": 34,
+              "expanded_url": "https://x.com/yuda8964/status/2083586461560193502/photo/1",
+              "media_key": "3_2083586452336836608",
+              "start": 11,
+              "url": "https://t.co/HOnW9kXlNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083586461560193502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学海无涯啊兄弟姐妹们 https://t.co/HOnW9kXlNl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 133,
+          "like_count": 1869,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      }
+    ]
+  }
+}

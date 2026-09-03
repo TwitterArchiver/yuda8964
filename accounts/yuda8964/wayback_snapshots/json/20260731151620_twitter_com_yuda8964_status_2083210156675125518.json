@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083210106116923392",
+        "3_2083210114283311105",
+        "3_2083210128749473792",
+        "3_2083210143211356161"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083210156675125518",
+    "created_at": "2026-07-31T15:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083210156675125518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kXTk3MzVty",
+          "end": 29,
+          "expanded_url": "https://x.com/yuda8964/status/2083210156675125518/photo/1",
+          "media_key": "3_2083210106116923392",
+          "start": 6,
+          "url": "https://t.co/kXTk3MzVty"
+        },
+        {
+          "display_url": "pic.x.com/kXTk3MzVty",
+          "end": 29,
+          "expanded_url": "https://x.com/yuda8964/status/2083210156675125518/photo/1",
+          "media_key": "3_2083210114283311105",
+          "start": 6,
+          "url": "https://t.co/kXTk3MzVty"
+        },
+        {
+          "display_url": "pic.x.com/kXTk3MzVty",
+          "end": 29,
+          "expanded_url": "https://x.com/yuda8964/status/2083210156675125518/photo/1",
+          "media_key": "3_2083210128749473792",
+          "start": 6,
+          "url": "https://t.co/kXTk3MzVty"
+        },
+        {
+          "display_url": "pic.x.com/kXTk3MzVty",
+          "end": 29,
+          "expanded_url": "https://x.com/yuda8964/status/2083210156675125518/photo/1",
+          "media_key": "3_2083210143211356161",
+          "start": 6,
+          "url": "https://t.co/kXTk3MzVty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083210156675125518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老牧师乐队 https://t.co/kXTk3MzVty"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 757,
+        "media_key": "3_2083210106116923392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkMjd-aYAA168s.jpg",
+        "width": 458
+      },
+      {
+        "height": 1689,
+        "media_key": "3_2083210114283311105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkMj8ZbkAEr7sW.jpg",
+        "width": 618
+      },
+      {
+        "height": 1673,
+        "media_key": "3_2083210128749473792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkMkySbsAAQgXD.jpg",
+        "width": 615
+      },
+      {
+        "height": 1686,
+        "media_key": "3_2083210143211356161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkMloKagAEbUoB.jpg",
+        "width": 620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083210106116923392",
+            "3_2083210114283311105",
+            "3_2083210128749473792",
+            "3_2083210143211356161"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083210156675125518",
+        "created_at": "2026-07-31T15:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083210156675125518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kXTk3MzVty",
+              "end": 29,
+              "expanded_url": "https://x.com/yuda8964/status/2083210156675125518/photo/1",
+              "media_key": "3_2083210106116923392",
+              "start": 6,
+              "url": "https://t.co/kXTk3MzVty"
+            },
+            {
+              "display_url": "pic.x.com/kXTk3MzVty",
+              "end": 29,
+              "expanded_url": "https://x.com/yuda8964/status/2083210156675125518/photo/1",
+              "media_key": "3_2083210114283311105",
+              "start": 6,
+              "url": "https://t.co/kXTk3MzVty"
+            },
+            {
+              "display_url": "pic.x.com/kXTk3MzVty",
+              "end": 29,
+              "expanded_url": "https://x.com/yuda8964/status/2083210156675125518/photo/1",
+              "media_key": "3_2083210128749473792",
+              "start": 6,
+              "url": "https://t.co/kXTk3MzVty"
+            },
+            {
+              "display_url": "pic.x.com/kXTk3MzVty",
+              "end": 29,
+              "expanded_url": "https://x.com/yuda8964/status/2083210156675125518/photo/1",
+              "media_key": "3_2083210143211356161",
+              "start": 6,
+              "url": "https://t.co/kXTk3MzVty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083210156675125518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老牧师乐队 https://t.co/kXTk3MzVty"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端主义  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 84,
+          "like_count": 645,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      }
+    ]
+  }
+}

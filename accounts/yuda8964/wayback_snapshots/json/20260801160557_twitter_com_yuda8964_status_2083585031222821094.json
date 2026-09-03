@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083576411974230284",
+    "created_at": "2026-08-01T16:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083585031222821094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677250155886829568",
+          "start": 0,
+          "username": "zifenthree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083585031222821094",
+    "in_reply_to_user_id": "1677250155886829568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083577423485108502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zifenthree 我操还是老智力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083576411974230284",
+        "created_at": "2026-08-01T16:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083585031222821094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677250155886829568",
+              "start": 0,
+              "username": "zifenthree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083585031222821094",
+        "in_reply_to_user_id": "1677250155886829568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083577423485108502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zifenthree 我操还是老智力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677250155886829568",
+        "conversation_id": "2083576411974230284",
+        "created_at": "2026-08-01T15:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083577423485108502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083577423485108502",
+        "in_reply_to_user_id": "1677250155886829568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083576742833508639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第四个号差不多是24年右美被列精二的时候 我的推纯记录生活了 我即没接着发od相关内容也没接着键政 跑去当了一手瓦学弟上了个港服赋能又跑去当了一手健身佬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 133,
+          "like_count": 1863,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T09:36:22.000Z",
+        "description": "09 心理男生理男 oder 瘾君子 大毒枭 健全逼没有任何心理疾病 纯爱磕",
+        "id": "1677250155886829568",
+        "name": "自分 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083544615509225472/G7R9orI-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 25,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "zifenthree",
+        "verified": false
+      }
+    ]
+  }
+}

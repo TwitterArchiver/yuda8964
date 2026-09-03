@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083761857954004992"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083761868175532434",
+    "created_at": "2026-08-02T03:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T04:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083761868175532434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f18m93ENeS",
+          "end": 34,
+          "expanded_url": "https://x.com/yuda8964/status/2083761868175532434/photo/1",
+          "media_key": "3_2083761857954004992",
+          "start": 11,
+          "url": "https://t.co/f18m93ENeS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083761868175532434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "广东双马尾最可爱了😍 https://t.co/f18m93ENeS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1330,
+        "media_key": "3_2083761857954004992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsCXpvbQAAdf_F.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083761857954004992"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083761868175532434",
+        "created_at": "2026-08-02T03:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083761868175532434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f18m93ENeS",
+              "end": 34,
+              "expanded_url": "https://x.com/yuda8964/status/2083761868175532434/photo/1",
+              "media_key": "3_2083761857954004992",
+              "start": 11,
+              "url": "https://t.co/f18m93ENeS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083761868175532434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广东双马尾最可爱了😍 https://t.co/f18m93ENeS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 145,
+          "like_count": 2047,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      }
+    ]
+  }
+}

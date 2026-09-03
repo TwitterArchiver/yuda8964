@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083576422086689104",
+    "created_at": "2026-08-01T15:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083577000128876700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2069160672672546816",
+          "start": 0,
+          "username": "BlackCrow1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083577000128876700",
+    "in_reply_to_user_id": "2069160672672546816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083576422086689104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackCrow1966 关注列表看透一切"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 727,
+        "media_key": "3_2083576314335023104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpZnl5bUAAMAdl.png",
+        "width": 744
+      },
+      {
+        "height": 930,
+        "media_key": "3_2083576356764606464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpZqD9bYAAdoRf.jpg",
+        "width": 739
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083576422086689104",
+        "created_at": "2026-08-01T15:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083577000128876700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2069160672672546816",
+              "start": 0,
+              "username": "BlackCrow1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083577000128876700",
+        "in_reply_to_user_id": "2069160672672546816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083576422086689104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackCrow1966 关注列表看透一切"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083576314335023104",
+            "3_2083576356764606464"
+          ]
+        },
+        "author_id": "2069160672672546816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083576422086689104",
+        "created_at": "2026-08-01T15:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083576422086689104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1XR1hBn5pG",
+              "end": 61,
+              "expanded_url": "https://x.com/BlackCrow1966/status/2083576422086689104/photo/1",
+              "media_key": "3_2083576314335023104",
+              "start": 38,
+              "url": "https://t.co/1XR1hBn5pG"
+            },
+            {
+              "display_url": "pic.x.com/1XR1hBn5pG",
+              "end": 61,
+              "expanded_url": "https://x.com/BlackCrow1966/status/2083576422086689104/photo/1",
+              "media_key": "3_2083576356764606464",
+              "start": 38,
+              "url": "https://t.co/1XR1hBn5pG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083576422086689104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "魔怔无脑支黑反女同的煞笔东北狗，一看关注列表小溪了\n反女同的本质是草不到b https://t.co/1XR1hBn5pG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 131,
+          "like_count": 1829,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T20:50:56.000Z",
+        "description": "我知道我在欺骗你 我仍然孤立无依",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "docuchina.cn",
+                "end": 23,
+                "expanded_url": "http://www.docuchina.cn/",
+                "start": 0,
+                "url": "https://t.co/xIdrdm9lc8"
+              }
+            ]
+          }
+        },
+        "id": "2069160672672546816",
+        "location": "木樨地",
+        "name": "胃烧书🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079296225107718144/1QX1LcKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 571,
+          "like_count": 3120,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/xIdrdm9lc8",
+        "username": "BlackCrow1966",
+        "verified": false
+      }
+    ]
+  }
+}

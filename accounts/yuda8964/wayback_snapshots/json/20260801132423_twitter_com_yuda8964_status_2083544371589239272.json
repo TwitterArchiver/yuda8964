@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083470282636083586",
+    "created_at": "2026-08-01T13:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083544371589239272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026321384042004480",
+          "start": 0,
+          "username": "jiu79171"
+        },
+        {
+          "end": 23,
+          "id": "2081768634284912640",
+          "start": 10,
+          "username": "buzhidao2738"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083544371589239272",
+    "in_reply_to_user_id": "2026321384042004480",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083470282636083586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu79171 @buzhidao2738 🤔😨😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2083470267138142208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOn5K1TbcAAsNp_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2083470267108773888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOn5K1MbUAATwIl.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2083470267146440704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOn5K1VaEAAG4AX.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2083470267108765696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOn5K1MbMAAy2F4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083470282636083586",
+        "created_at": "2026-08-01T13:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083544371589239272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026321384042004480",
+              "start": 0,
+              "username": "jiu79171"
+            },
+            {
+              "end": 23,
+              "id": "2081768634284912640",
+              "start": 10,
+              "username": "buzhidao2738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083544371589239272",
+        "in_reply_to_user_id": "2026321384042004480",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083470282636083586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu79171 @buzhidao2738 🤔😨😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083470267138142208",
+            "3_2083470267108773888",
+            "3_2083470267146440704",
+            "3_2083470267108765696"
+          ]
+        },
+        "author_id": "2026321384042004480",
+        "conversation_id": "2083470282636083586",
+        "created_at": "2026-08-01T08:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083470282636083586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "2081768634284912640",
+              "start": 15,
+              "username": "buzhidao2738"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oiDcaA7js",
+              "end": 162,
+              "expanded_url": "https://x.com/jiu79171/status/2083470282636083586/photo/1",
+              "media_key": "3_2083470267138142208",
+              "start": 139,
+              "url": "https://t.co/8oiDcaA7js"
+            },
+            {
+              "display_url": "pic.x.com/8oiDcaA7js",
+              "end": 162,
+              "expanded_url": "https://x.com/jiu79171/status/2083470282636083586/photo/1",
+              "media_key": "3_2083470267108773888",
+              "start": 139,
+              "url": "https://t.co/8oiDcaA7js"
+            },
+            {
+              "display_url": "pic.x.com/8oiDcaA7js",
+              "end": 162,
+              "expanded_url": "https://x.com/jiu79171/status/2083470282636083586/photo/1",
+              "media_key": "3_2083470267146440704",
+              "start": 139,
+              "url": "https://t.co/8oiDcaA7js"
+            },
+            {
+              "display_url": "pic.x.com/8oiDcaA7js",
+              "end": 162,
+              "expanded_url": "https://x.com/jiu79171/status/2083470282636083586/photo/1",
+              "media_key": "3_2083470267108765696",
+              "start": 139,
+              "url": "https://t.co/8oiDcaA7js"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083470282636083586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继续更新自介3.0中\n\n二号机@buzhidao2738\n可以叫我不知道｜割o一体机，但都不频繁，已被现生绑架状态🩸💊\n支持互fo｜聊天大欢迎｜形象切换频繁之人⛓️\n无固定人设，可以把我当成刚从棺材里爬出来的千年老干尸⚰️｜至于性别和性取向嘛…其实我是水母，我不需要考虑这些🪼 https://t.co/8oiDcaA7js"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 124,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 152
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T15:40:52.000Z",
+        "description": "二号机@buzhidao2738\n可以叫我不知道｜割o一体机，但都不频繁，已被现生绑架状态🩸💊\n支持互fo｜聊天大欢迎｜形象切换频繁之人⛓️\n无固定人设，可以把我当成刚从棺材里爬出来的千年老干尸⚰️｜至于性别和性取向嘛…其实我是水母，我不需要考虑这些🪼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "buzhidao2738"
+              }
+            ]
+          }
+        },
+        "id": "2026321384042004480",
+        "name": "不知道",
+        "pinned_tweet_id": "2041766291791569150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026321804248444928/fooAhUCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 11,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "jiu79171",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-27T15:51:07.000Z",
+        "description": "不知道用来干嘛的号。\n总之之前的一切都让我厌烦，所以或许这是新的开始（笑\n本体@jiu79171",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "jiu79171"
+              }
+            ]
+          }
+        },
+        "id": "2081768634284912640",
+        "name": "错春刀",
+        "pinned_tweet_id": "2081775222009856502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081769611343851520/97W7mhYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "buzhidao2738",
+        "verified": false
+      }
+    ]
+  }
+}

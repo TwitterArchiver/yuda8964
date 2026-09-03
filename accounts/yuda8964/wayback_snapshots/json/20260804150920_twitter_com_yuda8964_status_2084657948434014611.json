@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084656554205450513",
+    "created_at": "2026-08-04T15:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084657948434014611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942519905510641664",
+          "start": 0,
+          "username": "zzz1398454"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084657948434014611",
+    "in_reply_to_user_id": "1942519905510641664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084657847896314141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzz1398454 ❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084656554205450513",
+        "created_at": "2026-08-04T15:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084657948434014611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942519905510641664",
+              "start": 0,
+              "username": "zzz1398454"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084657948434014611",
+        "in_reply_to_user_id": "1942519905510641664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084657847896314141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzz1398454 ❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942519905510641664",
+        "conversation_id": "2084656554205450513",
+        "created_at": "2026-08-04T15:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084657847896314141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1679905283068555265",
+              "start": 0,
+              "username": "yuda8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084657847896314141",
+        "in_reply_to_user_id": "1679905283068555265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084656554205450513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda8964 漂亮捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 177,
+          "like_count": 4997,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T09:44:40.000Z",
+        "description": "傻子爱人@misakinae37",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "misakinae37"
+              }
+            ]
+          }
+        },
+        "id": "1942519905510641664",
+        "name": "枳橘地区研究员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059251554373537792/hlb9z06C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 24,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "zzz1398454",
+        "verified": false
+      }
+    ]
+  }
+}

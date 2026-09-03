@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083202047500058676",
+    "created_at": "2026-07-31T14:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083202318733095300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "38217523",
+          "start": 0,
+          "username": "ZakkysLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083202318733095300",
+    "in_reply_to_user_id": "38217523",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083202047500058676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZakkysLab 好的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1043,
+        "media_key": "3_2083202014205685760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkFMdQbsAACQP_.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083202047500058676",
+        "created_at": "2026-07-31T14:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083202318733095300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "38217523",
+              "start": 0,
+              "username": "ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083202318733095300",
+        "in_reply_to_user_id": "38217523",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083202047500058676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZakkysLab 好的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083202014205685760"
+          ]
+        },
+        "author_id": "38217523",
+        "conversation_id": "2083202047500058676",
+        "created_at": "2026-07-31T14:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083202047500058676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0yRQeoyRsB",
+              "end": 27,
+              "expanded_url": "https://x.com/ZakkysLab/status/2083202047500058676/photo/1",
+              "media_key": "3_2083202014205685760",
+              "start": 4,
+              "url": "https://t.co/0yRQeoyRsB"
+            },
+            {
+              "display_url": "x.com/yuda8964/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/yuda8964/status/2083114764377731157",
+              "start": 28,
+              "url": "https://t.co/tBhINzq1Bg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083202047500058676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083114764377731157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我倾听 https://t.co/0yRQeoyRsB https://t.co/tBhINzq1Bg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端主义  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 77,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-06T16:33:52.000Z",
+        "description": "welcome to los pollos hermanos.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/I2Is12SUjx"
+              }
+            ]
+          }
+        },
+        "id": "38217523",
+        "name": "Zakky's LAB 养号中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083182116012224512/rSNbGMS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 44,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/I2Is12SUjx",
+        "username": "ZakkysLab",
+        "verified": true
+      }
+    ]
+  }
+}

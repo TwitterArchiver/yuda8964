@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084656554205450513",
+    "created_at": "2026-08-04T16:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084679057657197048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1815253637985443840",
+          "start": 0,
+          "username": "HASUMI117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084679057657197048",
+    "in_reply_to_user_id": "1815253637985443840",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084678819504636028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HASUMI117 ❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084656554205450513",
+        "created_at": "2026-08-04T16:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084679057657197048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1815253637985443840",
+              "start": 0,
+              "username": "HASUMI117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084679057657197048",
+        "in_reply_to_user_id": "1815253637985443840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084678819504636028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HASUMI117 ❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815253637985443840",
+        "conversation_id": "2084656554205450513",
+        "created_at": "2026-08-04T16:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084678819504636028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1679905283068555265",
+              "start": 0,
+              "username": "yuda8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084678819504636028",
+        "in_reply_to_user_id": "1679905283068555265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084656554205450513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda8964 免封说明可还行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 179,
+          "like_count": 5114,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T05:13:01.000Z",
+        "description": "isfj-t｜天蝎座\n欢迎大家留言：https://t.co/YcwUUBK7pZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasumi33027",
+                "end": 41,
+                "expanded_url": "https://ngl.link/hasumi33027",
+                "start": 18,
+                "url": "https://t.co/YcwUUBK7pZ"
+              }
+            ]
+          }
+        },
+        "id": "1815253637985443840",
+        "location": "北京朝阳区",
+        "name": "HASUMI",
+        "pinned_tweet_id": "1815740856013574421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821856172485570561/tZFR-wb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 1232,
+          "like_count": 2475,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1310
+        },
+        "url": "",
+        "username": "HASUMI117",
+        "verified": false
+      }
+    ]
+  }
+}

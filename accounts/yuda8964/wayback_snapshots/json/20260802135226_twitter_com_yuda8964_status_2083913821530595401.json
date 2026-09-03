@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083912433148760501",
+    "created_at": "2026-08-02T13:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083913821530595401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1689109126364934144",
+          "start": 0,
+          "username": "yi_xia44156"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083913821530595401",
+    "in_reply_to_user_id": "1689109126364934144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083912433148760501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi_xia44156 会呼吸抑制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083912433148760501",
+        "created_at": "2026-08-02T13:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083913821530595401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1689109126364934144",
+              "start": 0,
+              "username": "yi_xia44156"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083913821530595401",
+        "in_reply_to_user_id": "1689109126364934144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083912433148760501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi_xia44156 会呼吸抑制"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689109126364934144",
+        "conversation_id": "2083912433148760501",
+        "created_at": "2026-08-02T13:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083912433148760501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083912433148760501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安能和加巴喷丁能一起吃吗我被接到我爸家里了我不能打气我身边只有这俩药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 155,
+          "like_count": 2689,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T02:59:44.000Z",
+        "description": "新号转生版 我喝酒喝傻了我吸毒傻了我脑子不好/精分/od/07/我只是一只电子猫咪 /日记本这里说一些乱七八糟的话",
+        "id": "1689109126364934144",
+        "name": "恩恩逸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083611363197562880/YEVfexIC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 59,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "yi_xia44156",
+        "verified": false
+      }
+    ]
+  }
+}

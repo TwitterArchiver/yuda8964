@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083914451712098729",
+    "created_at": "2026-08-02T14:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083919162746015802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1817361351494467584",
+          "start": 0,
+          "username": "resa87125"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083919162746015802",
+    "in_reply_to_user_id": "1817361351494467584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083914451712098729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@resa87125 我操  我小时候看到这个地方都直接跳过  不敢看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083914451712098729",
+        "created_at": "2026-08-02T14:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083919162746015802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1817361351494467584",
+              "start": 0,
+              "username": "resa87125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083919162746015802",
+        "in_reply_to_user_id": "1817361351494467584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083914451712098729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@resa87125 我操  我小时候看到这个地方都直接跳过  不敢看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817361351494467584",
+        "conversation_id": "2083914451712098729",
+        "created_at": "2026-08-02T13:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083914451712098729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SnozakiSakura/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/SnozakiSakura/status/2083511485163348176",
+              "start": 28,
+              "url": "https://t.co/wsi91qza2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083914451712098729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083511485163348176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很怀恋小时候一个人泡在新华书店找开封了的查理九世的日子 https://t.co/wsi91qza2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 155,
+          "like_count": 2701,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T00:49:29.000Z",
+        "description": "可以直接称呼id/或者称呼S/无性恋/生理性别女/心理无性别/随时可以找我唠除了顺性别相关的一切话题/可提供有困难的人资金援助//顺男别来恶心我/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/void87214",
+                "end": 23,
+                "expanded_url": "http://ngl.link/void87214",
+                "start": 0,
+                "url": "https://t.co/tEfgMsM9pd"
+              }
+            ]
+          }
+        },
+        "id": "1817361351494467584",
+        "location": "HELL",
+        "name": "Sare🖤🩶🤍💜",
+        "pinned_tweet_id": "2077225086109770044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055743557710004224/K-DCgKBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 108,
+          "like_count": 1464,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 493
+        },
+        "url": "https://t.co/tEfgMsM9pd",
+        "username": "resa87125",
+        "verified": false
+      }
+    ]
+  }
+}

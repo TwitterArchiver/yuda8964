@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084579962452123648"
+      ],
+      "media_source_tweet_id": [
+        "2084579985021718957"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084580386722746630",
+    "created_at": "2026-08-04T10:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084580386722746630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1953859279003561984",
+          "start": 3,
+          "username": "lingyugeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H7u5H8KIgz",
+          "end": 53,
+          "expanded_url": "https://x.com/lingyugeng/status/2084579985021718957/photo/1",
+          "media_key": "3_2084579962452123648",
+          "start": 30,
+          "url": "https://t.co/H7u5H8KIgz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084580386722746630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084579985021718957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lingyugeng: 我一分也没圈到我真的心脏疼 https://t.co/H7u5H8KIgz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2084579962452123648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3qbmfbIAAj0H5.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084579962452123648"
+          ]
+        },
+        "author_id": "1953859279003561984",
+        "conversation_id": "2084579985021718957",
+        "created_at": "2026-08-04T09:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084579985021718957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H7u5H8KIgz",
+              "end": 37,
+              "expanded_url": "https://x.com/lingyugeng/status/2084579985021718957/photo/1",
+              "media_key": "3_2084579962452123648",
+              "start": 14,
+              "url": "https://t.co/H7u5H8KIgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084579985021718957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我一分也没圈到我真的心脏疼 https://t.co/H7u5H8KIgz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084579962452123648"
+          ],
+          "media_source_tweet_id": [
+            "2084579985021718957"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084580386722746630",
+        "created_at": "2026-08-04T10:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084580386722746630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1953859279003561984",
+              "start": 3,
+              "username": "lingyugeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H7u5H8KIgz",
+              "end": 53,
+              "expanded_url": "https://x.com/lingyugeng/status/2084579985021718957/photo/1",
+              "media_key": "3_2084579962452123648",
+              "start": 30,
+              "url": "https://t.co/H7u5H8KIgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084580386722746630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084579985021718957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lingyugeng: 我一分也没圈到我真的心脏疼 https://t.co/H7u5H8KIgz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 173,
+          "like_count": 4623,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 418
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T16:42:26.000Z",
+        "description": "安徽/男/命比愈美苦三分/交友",
+        "id": "1953859279003561984",
+        "name": "泡面和猫",
+        "pinned_tweet_id": "2084255894066565468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078552560940843008/3eFcKlQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 93,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 774
+        },
+        "url": "",
+        "username": "lingyugeng",
+        "verified": false
+      }
+    ]
+  }
+}

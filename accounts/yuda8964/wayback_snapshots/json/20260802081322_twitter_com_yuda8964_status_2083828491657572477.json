@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2082165345100668998",
+    "created_at": "2026-08-02T08:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083828491657572477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2082162070422999040",
+          "start": 0,
+          "username": "Bryophyta02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083828491657572477",
+    "in_reply_to_user_id": "2082162070422999040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082165345100668998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bryophyta02 咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2082165345100668998",
+        "created_at": "2026-08-02T08:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083828491657572477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2082162070422999040",
+              "start": 0,
+              "username": "Bryophyta02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083828491657572477",
+        "in_reply_to_user_id": "2082162070422999040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082165345100668998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bryophyta02 咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082162070422999040",
+        "conversation_id": "2082165345100668998",
+        "created_at": "2026-07-28T18:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082165345100668998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082165345100668998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1311,
+          "like_count": 18,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "本人由于幽灵ban\n秽土转生小号\n巡回互fo抽奖\n一等奖18.88r\n二等奖8.88r\n三等奖6.66r\n评论转发可参与抽奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 143,
+          "like_count": 2309,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T17:52:25.000Z",
+        "description": "鸡友@MISTERK0937\n阴暗的沼泽生物/od/精神病/欢迎互fo查成分/欢迎找我聊天/金属乐/二次元/穿孔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "MISTERK0937"
+              }
+            ]
+          }
+        },
+        "id": "2082162070422999040",
+        "name": "苔藓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082169935518961664/oKzFlwrM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 25,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "Bryophyta02",
+        "verified": false
+      }
+    ]
+  }
+}

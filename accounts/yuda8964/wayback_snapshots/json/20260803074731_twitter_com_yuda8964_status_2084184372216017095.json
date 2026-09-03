@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084184330000375808",
+        "3_2084184340792315904",
+        "3_2084184349063458816"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084184372216017095",
+    "created_at": "2026-08-03T07:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084184372216017095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1852686868846092288",
+          "start": 15,
+          "username": "TL_Xingyi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KWqD9oJmE5",
+          "end": 49,
+          "expanded_url": "https://x.com/yuda8964/status/2084184372216017095/photo/1",
+          "media_key": "3_2084184330000375808",
+          "start": 26,
+          "url": "https://t.co/KWqD9oJmE5"
+        },
+        {
+          "display_url": "pic.x.com/KWqD9oJmE5",
+          "end": 49,
+          "expanded_url": "https://x.com/yuda8964/status/2084184372216017095/photo/1",
+          "media_key": "3_2084184340792315904",
+          "start": 26,
+          "url": "https://t.co/KWqD9oJmE5"
+        },
+        {
+          "display_url": "pic.x.com/KWqD9oJmE5",
+          "end": 49,
+          "expanded_url": "https://x.com/yuda8964/status/2084184372216017095/photo/1",
+          "media_key": "3_2084184349063458816",
+          "start": 26,
+          "url": "https://t.co/KWqD9oJmE5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084184372216017095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢@xiaotunovoO @TL_Xingyi https://t.co/KWqD9oJmE5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2084184330000375808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyCmwwboAAjAMM.jpg",
+        "width": 3200
+      },
+      {
+        "height": 943,
+        "media_key": "3_2084184340792315904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyCnY9bkAAYjZr.jpg",
+        "width": 1508
+      },
+      {
+        "height": 820,
+        "media_key": "3_2084184349063458816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyCn3xbMAAhYxj.jpg",
+        "width": 1312
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084184330000375808",
+            "3_2084184340792315904",
+            "3_2084184349063458816"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084184372216017095",
+        "created_at": "2026-08-03T07:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084184372216017095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1852686868846092288",
+              "start": 15,
+              "username": "TL_Xingyi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KWqD9oJmE5",
+              "end": 49,
+              "expanded_url": "https://x.com/yuda8964/status/2084184372216017095/photo/1",
+              "media_key": "3_2084184330000375808",
+              "start": 26,
+              "url": "https://t.co/KWqD9oJmE5"
+            },
+            {
+              "display_url": "pic.x.com/KWqD9oJmE5",
+              "end": 49,
+              "expanded_url": "https://x.com/yuda8964/status/2084184372216017095/photo/1",
+              "media_key": "3_2084184340792315904",
+              "start": 26,
+              "url": "https://t.co/KWqD9oJmE5"
+            },
+            {
+              "display_url": "pic.x.com/KWqD9oJmE5",
+              "end": 49,
+              "expanded_url": "https://x.com/yuda8964/status/2084184372216017095/photo/1",
+              "media_key": "3_2084184349063458816",
+              "start": 26,
+              "url": "https://t.co/KWqD9oJmE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084184372216017095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@xiaotunovoO @TL_Xingyi https://t.co/KWqD9oJmE5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 167,
+          "like_count": 3223,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T12:25:58.000Z",
+        "description": "5:30the car missin'  HRT：2025.12.9\n马列毛主义/从马列角度支持LGBT无产化/偏新左？/现代毛派/反修正主义/反资反帝。广脑给我扣了个重抑中焦的帽子🤔🤔🤔。脱产学生（高中生）努力学习理论克服小资性。 友跨🏳️‍⚧️同类互fo喵。互fo都会回的喵😺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xqzxmarxismclub.com",
+                "end": 23,
+                "expanded_url": "http://xqzxmarxismclub.com",
+                "start": 0,
+                "url": "https://t.co/slB5soX612"
+              }
+            ]
+          }
+        },
+        "id": "1852686868846092288",
+        "location": "Roermond, Nederland",
+        "name": "Physic530🏳️‍⚧️🍥☭",
+        "pinned_tweet_id": "2076410044397314185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021662006047338496/LzTR6pRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 526,
+          "like_count": 6746,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 915
+        },
+        "url": "https://t.co/slB5soX612",
+        "username": "TL_Xingyi",
+        "verified": true
+      }
+    ]
+  }
+}

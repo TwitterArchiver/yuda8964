@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083668450547990593",
+    "created_at": "2026-08-02T07:49:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083822504032993341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026321384042004480",
+          "start": 0,
+          "username": "jiu79171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083822504032993341",
+    "in_reply_to_user_id": "2026321384042004480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083668450547990593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu79171 咪咪咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1656,
+        "media_key": "3_2083668443669356544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqtaOaaYAA-0OI.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083668450547990593",
+        "created_at": "2026-08-02T07:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083822504032993341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026321384042004480",
+              "start": 0,
+              "username": "jiu79171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083822504032993341",
+        "in_reply_to_user_id": "2026321384042004480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083668450547990593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu79171 咪咪咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083668443669356544"
+          ]
+        },
+        "author_id": "2026321384042004480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083668450547990593",
+        "created_at": "2026-08-01T21:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083668450547990593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8LxFzNXxi",
+              "end": 126,
+              "expanded_url": "https://x.com/jiu79171/status/2083668450547990593/photo/1",
+              "media_key": "3_2083668443669356544",
+              "start": 103,
+              "url": "https://t.co/n8LxFzNXxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083668450547990593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 808,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "50fo抽奖\n发了一晚上癫发现50fo了，抽两个30r小红包给你们买烟吧！\n没想靠这个涨关注，所以转发评论点赞即可。已截屏前50fo并且会上调这些人的中奖概率。最后会通过ai抽奖。\n截止到八月九日晚九点。 https://t.co/n8LxFzNXxi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 143,
+          "like_count": 2296,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T15:40:52.000Z",
+        "description": "二号机@buzhidao2738\n可以叫我不知道｜割o一体机，但都不频繁，已被现生绑架状态🩸💊\n支持互fo｜聊天大欢迎｜形象切换频繁之人⛓️\n无固定人设，可以把我当成刚从棺材里爬出来的千年老干尸⚰️｜至于性别和性取向嘛…其实我是水母，我不需要考虑这些🪼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "buzhidao2738"
+              }
+            ]
+          }
+        },
+        "id": "2026321384042004480",
+        "name": "不知道",
+        "pinned_tweet_id": "2041766291791569150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026321804248444928/fooAhUCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 24,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "jiu79171",
+        "verified": false
+      }
+    ]
+  }
+}

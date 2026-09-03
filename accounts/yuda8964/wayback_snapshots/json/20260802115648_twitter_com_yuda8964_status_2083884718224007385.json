@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083884718224007385",
+    "created_at": "2026-08-02T11:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083884718224007385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuda8964/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/yuda8964/status/2083847479263637762",
+          "start": 7,
+          "url": "https://t.co/tffaD9lGex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083884718224007385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083847479263637762",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么都是1 https://t.co/tffaD9lGex"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1398,
+        "media_key": "3_2083847464898150400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtQOodaQAAIEaE.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083884718224007385",
+        "created_at": "2026-08-02T11:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083884718224007385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuda8964/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yuda8964/status/2083847479263637762",
+              "start": 7,
+              "url": "https://t.co/tffaD9lGex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083884718224007385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083847479263637762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么都是1 https://t.co/tffaD9lGex"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083847464898150400"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083847479263637762",
+        "created_at": "2026-08-02T09:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083847479263637762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eevj6GuH7A",
+              "end": 25,
+              "expanded_url": "https://x.com/yuda8964/status/2083847479263637762/photo/1",
+              "media_key": "3_2083847464898150400",
+              "start": 2,
+              "url": "https://t.co/eevj6GuH7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083847479263637762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耍 https://t.co/eevj6GuH7A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 152,
+          "like_count": 2584,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      }
+    ]
+  }
+}

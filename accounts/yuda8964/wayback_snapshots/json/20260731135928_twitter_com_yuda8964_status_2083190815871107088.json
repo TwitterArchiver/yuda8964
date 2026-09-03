@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083188121777426793",
+    "created_at": "2026-07-31T13:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083190815871107088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2075131696488525824",
+          "start": 0,
+          "username": "a321908"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083190815871107088",
+    "in_reply_to_user_id": "2075131696488525824",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083188121777426793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a321908 🎉🎉🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2408,
+        "media_key": "3_2083188107701317632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj4i_fa8AAWW3A.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083188121777426793",
+        "created_at": "2026-07-31T13:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083190815871107088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2075131696488525824",
+              "start": 0,
+              "username": "a321908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083190815871107088",
+        "in_reply_to_user_id": "2075131696488525824",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083188121777426793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a321908 🎉🎉🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083188107701317632"
+          ]
+        },
+        "author_id": "2075131696488525824",
+        "conversation_id": "2083188121777426793",
+        "created_at": "2026-07-31T13:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083188121777426793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CE6XWKmDmt",
+              "end": 40,
+              "expanded_url": "https://x.com/a321908/status/2083188121777426793/photo/1",
+              "media_key": "3_2083188107701317632",
+              "start": 17,
+              "url": "https://t.co/CE6XWKmDmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083188121777426793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "250fo了www🥰🥰🥰请恭喜我 https://t.co/CE6XWKmDmt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端主义  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 70,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-09T08:17:41.000Z",
+        "description": "叫我小🐟就好\n含丹吞药解旧愁，\n芙肌进展女儿柔。\n纵使他人千般语，\n心向清娥死不休。\nMTF 🏳️‍⚧ | HRT 🧬2026 4.25无证含糖 出厂日期2009 1.18 |家长反对党||od|紫残|精神状态堪忧|重焦焦虑ing|正在想着续糖😳欢迎互fo呀 同类有看见必回fo\n永远会怀念和记住与他点点滴滴人:于杰",
+        "id": "2075131696488525824",
+        "location": "jilin",
+        "name": "321908🍥🏳️‍️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075135379255214081/Xav5vJPR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 465,
+          "like_count": 1748,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 759
+        },
+        "url": "",
+        "username": "a321908",
+        "verified": false
+      }
+    ]
+  }
+}

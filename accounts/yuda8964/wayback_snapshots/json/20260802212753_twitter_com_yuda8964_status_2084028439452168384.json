@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084028439452168384",
+    "created_at": "2026-08-02T21:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T22:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084028439452168384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuluoyiluo002/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/kuluoyiluo002/status/2083391038648205638",
+          "start": 19,
+          "url": "https://t.co/skAUv59MjM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084028439452168384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083391038648205638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我求你了  希望你只是住院而不是死了 https://t.co/skAUv59MjM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2083391029735223296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmxGm-acAAtgV5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084028439452168384",
+        "created_at": "2026-08-02T21:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T22:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084028439452168384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuluoyiluo002/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/kuluoyiluo002/status/2083391038648205638",
+              "start": 19,
+              "url": "https://t.co/skAUv59MjM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084028439452168384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083391038648205638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我求你了  希望你只是住院而不是死了 https://t.co/skAUv59MjM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083391029735223296"
+          ]
+        },
+        "author_id": "2019464858006351872",
+        "conversation_id": "2083391038648205638",
+        "created_at": "2026-08-01T03:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083391038648205638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zy7sRZfIrg",
+              "end": 87,
+              "expanded_url": "https://x.com/kuluoyiluo002/status/2083391038648205638/photo/1",
+              "media_key": "3_2083391029735223296",
+              "start": 64,
+              "url": "https://t.co/zy7sRZfIrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083391038648205638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8169,
+          "like_count": 53,
+          "quote_count": 4,
+          "reply_count": 36,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "再见碎梦.. 再见伊洛.. 再见世界..\nUTC+8 11:15\n米氮平 1260mg (18t 30mg 48t 15mg) https://t.co/zy7sRZfIrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 159,
+          "like_count": 3034,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 307
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T17:35:26.000Z",
+        "description": "u/1f365*ｴｽﾄﾗｼﾞｵｰﾙ // 网瘾少女 / 常年性耳背 / 常年性过敏性鼻炎 / 主菜=上海全宇 / SSRI OD大师 / 血清素综合症爱好者 / 药源短缺 × 戒断战士 //《六⭐️干员伊洛为你所用～！》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "isslivenow.com",
+                "end": 23,
+                "expanded_url": "https://isslivenow.com",
+                "start": 0,
+                "url": "https://t.co/UZqQzFC2yu"
+              }
+            ]
+          }
+        },
+        "id": "2019464858006351872",
+        "location": "International Space Station",
+        "name": "◈ 伊洛² ◈　🔪𓂸（六⭐️干员）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069822395335200770/529_1vlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 94,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/UZqQzFC2yu",
+        "username": "kuluoyiluo002",
+        "verified": false
+      }
+    ]
+  }
+}

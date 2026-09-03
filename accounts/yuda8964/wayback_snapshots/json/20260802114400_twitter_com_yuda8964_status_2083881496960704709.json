@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083881496960704709",
+    "created_at": "2026-08-02T11:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083881496960704709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "163cn.tv/bcgjQ4JH",
+          "end": 23,
+          "expanded_url": "https://163cn.tv/bcgjQ4JH",
+          "start": 0,
+          "status": 200,
+          "unwound_url": "https://y.music.163.com/m/song?id=420220719&uct2=cmZ%2FmsGZ8DAnNGRBoDH29A%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&dlt=0846&app_version=9.5.25&sc=wm&tn=",
+          "url": "https://t.co/Zqc11DnR07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083881496960704709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Zqc11DnR07\n谁懂这个合成器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083881496960704709",
+        "created_at": "2026-08-02T11:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083881496960704709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "163cn.tv/bcgjQ4JH",
+              "end": 23,
+              "expanded_url": "https://163cn.tv/bcgjQ4JH",
+              "start": 0,
+              "status": 200,
+              "unwound_url": "https://y.music.163.com/m/song?id=420220719&uct2=cmZ%2FmsGZ8DAnNGRBoDH29A%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&dlt=0846&app_version=9.5.25&sc=wm&tn=",
+              "url": "https://t.co/Zqc11DnR07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083881496960704709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Zqc11DnR07\n谁懂这个合成器"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 151,
+          "like_count": 2572,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 239
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      }
+    ]
+  }
+}

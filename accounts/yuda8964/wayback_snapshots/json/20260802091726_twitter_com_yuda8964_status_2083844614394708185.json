@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083844603539836928"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083761868175532434",
+    "created_at": "2026-08-02T09:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083844614394708185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1674081369830436864",
+          "start": 0,
+          "username": "yshidhe3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3y85kHe1uQ",
+          "end": 33,
+          "expanded_url": "https://x.com/yuda8964/status/2083844614394708185/photo/1",
+          "media_key": "3_2083844603539836928",
+          "start": 10,
+          "url": "https://t.co/3y85kHe1uQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083844614394708185",
+    "in_reply_to_user_id": "1674081369830436864",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083818407544377467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yshidhe3 https://t.co/3y85kHe1uQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1330,
+        "media_key": "3_2083844603539836928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtNoFEbUAAcpZS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083844603539836928"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083761868175532434",
+        "created_at": "2026-08-02T09:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083844614394708185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674081369830436864",
+              "start": 0,
+              "username": "yshidhe3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3y85kHe1uQ",
+              "end": 33,
+              "expanded_url": "https://x.com/yuda8964/status/2083844614394708185/photo/1",
+              "media_key": "3_2083844603539836928",
+              "start": 10,
+              "url": "https://t.co/3y85kHe1uQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083844614394708185",
+        "in_reply_to_user_id": "1674081369830436864",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083818407544377467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe3 https://t.co/3y85kHe1uQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674081369830436864",
+        "conversation_id": "2083761868175532434",
+        "created_at": "2026-08-02T07:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083818407544377467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1679905283068555265",
+              "start": 0,
+              "username": "yuda8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083818407544377467",
+        "in_reply_to_user_id": "1679905283068555265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083761868175532434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda8964 有原圖嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 145,
+          "like_count": 2363,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 222
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T15:44:58.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq 前世 @yshidhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "yshidhe"
+              }
+            ]
+          }
+        },
+        "id": "1674081369830436864",
+        "location": "在你心中",
+        "name": "ゆうく；已壊掉2.0",
+        "pinned_tweet_id": "2078364102158963012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065587970690998272/p_gIuBa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 25,
+          "like_count": 986,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 591
+        },
+        "url": "",
+        "username": "yshidhe3",
+        "verified": true
+      }
+    ]
+  }
+}

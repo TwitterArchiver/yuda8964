@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084248761069633667",
+    "created_at": "2026-08-03T12:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T13:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084257127833743655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802754536710262784",
+          "start": 0,
+          "username": "Dan0115qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084257127833743655",
+    "in_reply_to_user_id": "1802754536710262784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084248761069633667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dan0115qwq 芥末帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1532,
+        "media_key": "3_2084248750156103680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOy9MgibQAAk0uM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084248761069633667",
+        "created_at": "2026-08-03T12:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084257127833743655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802754536710262784",
+              "start": 0,
+              "username": "Dan0115qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084257127833743655",
+        "in_reply_to_user_id": "1802754536710262784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084248761069633667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dan0115qwq 芥末帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084248750156103680"
+          ]
+        },
+        "author_id": "1802754536710262784",
+        "conversation_id": "2084248761069633667",
+        "created_at": "2026-08-03T12:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084248761069633667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hzfksCOO9U",
+              "end": 28,
+              "expanded_url": "https://x.com/Dan0115qwq/status/2084248761069633667/photo/1",
+              "media_key": "3_2084248750156103680",
+              "start": 5,
+              "url": "https://t.co/hzfksCOO9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084248761069633667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蛋儿假死 https://t.co/hzfksCOO9U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 171,
+          "like_count": 3754,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 364
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T17:25:59.000Z",
+        "description": "不会眨眼睛\n@zzeeffiieegg 抹茶型人格（关注前请私信\n请享用🍨 https://t.co/pBpVmSLGoO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "zzeeffiieegg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/zzeeffiieegg",
+                "end": 61,
+                "expanded_url": "https://ngl.link/zzeeffiieegg",
+                "start": 38,
+                "url": "https://t.co/pBpVmSLGoO"
+              }
+            ]
+          }
+        },
+        "id": "1802754536710262784",
+        "name": "Dan",
+        "pinned_tweet_id": "2077382914237730864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903651201214029824/uOGkCZTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 407,
+          "like_count": 3537,
+          "listed_count": 2,
+          "media_count": 645,
+          "tweet_count": 4812
+        },
+        "url": "",
+        "username": "Dan0115qwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083565283453943995",
+    "created_at": "2026-08-01T14:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083567202125685107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "877473366684221440",
+          "start": 0,
+          "username": "083001c1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083567202125685107",
+    "in_reply_to_user_id": "877473366684221440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083565283453943995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@083001c1 我去此人赢商比我高"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2083564717659082752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpPEk6bUAA50fW.jpg",
+        "width": 1037
+      },
+      {
+        "height": 1432,
+        "media_key": "3_2083564730669764608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpPFVYakAAM3cX.jpg",
+        "width": 1072
+      },
+      {
+        "height": 1426,
+        "media_key": "3_2083565220258357248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpPh1PboAAVgGW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083565283453943995",
+        "created_at": "2026-08-01T14:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083567202125685107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "877473366684221440",
+              "start": 0,
+              "username": "083001c1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083567202125685107",
+        "in_reply_to_user_id": "877473366684221440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083565283453943995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@083001c1 我去此人赢商比我高"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083564717659082752",
+            "3_2083564730669764608",
+            "3_2083565220258357248"
+          ]
+        },
+        "author_id": "877473366684221440",
+        "conversation_id": "2083565283453943995",
+        "created_at": "2026-08-01T14:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083565283453943995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8Ls0krEl8",
+              "end": 62,
+              "expanded_url": "https://x.com/083001c1/status/2083565283453943995/photo/1",
+              "media_key": "3_2083564717659082752",
+              "start": 39,
+              "url": "https://t.co/T8Ls0krEl8"
+            },
+            {
+              "display_url": "pic.x.com/T8Ls0krEl8",
+              "end": 62,
+              "expanded_url": "https://x.com/083001c1/status/2083565283453943995/photo/1",
+              "media_key": "3_2083564730669764608",
+              "start": 39,
+              "url": "https://t.co/T8Ls0krEl8"
+            },
+            {
+              "display_url": "pic.x.com/T8Ls0krEl8",
+              "end": 62,
+              "expanded_url": "https://x.com/083001c1/status/2083565283453943995/photo/1",
+              "media_key": "3_2083565220258357248",
+              "start": 39,
+              "url": "https://t.co/T8Ls0krEl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083565283453943995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以让我捞几块吗我长期经营h图业务，g图和猎奇的也能画😋可以，，点图图，，， https://t.co/T8Ls0krEl8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 130,
+          "like_count": 1786,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-21T10:28:48.000Z",
+        "description": "💊/🔪同类互fo喵(:3っ )っ\nmsk赢了我以后将把x当墙内软件发\n*无法使用私信功能",
+        "id": "877473366684221440",
+        "name": "O seven (3.0卢关寻回中)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083290018194558976/iHyUhoSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 44,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "083001c1",
+        "verified": false
+      }
+    ]
+  }
+}

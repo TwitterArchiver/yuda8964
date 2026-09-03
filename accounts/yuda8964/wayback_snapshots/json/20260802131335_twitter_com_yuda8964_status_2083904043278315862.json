@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2083904039776034816"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083904043278315862",
+    "created_at": "2026-08-02T13:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083904043278315862"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083904043278315862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们是哪边的翅膀？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-08-03T13:13:34.000Z",
+        "id": "2083904039776034816",
+        "options": [
+          {
+            "label": "右边的翅膀",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "左边的翅膀",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "极右翼翅膀",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "极左翼翅膀",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2083904039776034816"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083904043278315862",
+        "created_at": "2026-08-02T13:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083904043278315862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083904043278315862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们是哪边的翅膀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 154,
+          "like_count": 2645,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      }
+    ]
+  }
+}

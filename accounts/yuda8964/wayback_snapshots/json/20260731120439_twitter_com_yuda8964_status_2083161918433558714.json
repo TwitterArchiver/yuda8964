@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083052985580736512"
+      ],
+      "media_source_tweet_id": [
+        "2083052992950149494"
+      ]
+    },
+    "author_id": "1679905283068555265",
+    "conversation_id": "2083161918433558714",
+    "created_at": "2026-07-31T12:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083161918433558714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883207896768651264",
+          "start": 3,
+          "username": "clem0216"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UYbwam9ZoL",
+          "end": 62,
+          "expanded_url": "https://x.com/clem0216/status/2083052992950149494/photo/1",
+          "media_key": "3_2083052985580736512",
+          "start": 39,
+          "url": "https://t.co/UYbwam9ZoL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083161918433558714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083052992950149494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clem0216: 你好，由于你一直刷推特贴子，现在已经刷到基岩层了 https://t.co/UYbwam9ZoL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 668,
+        "media_key": "3_2083052985580736512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOh9p2XbUAA7ay9.jpg",
+        "width": 683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083052985580736512"
+          ]
+        },
+        "author_id": "1883207896768651264",
+        "conversation_id": "2083052992950149494",
+        "created_at": "2026-07-31T04:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083052992950149494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYbwam9ZoL",
+              "end": 48,
+              "expanded_url": "https://x.com/clem0216/status/2083052992950149494/photo/1",
+              "media_key": "3_2083052985580736512",
+              "start": 25,
+              "url": "https://t.co/UYbwam9ZoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083052992950149494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 45425,
+          "like_count": 2115,
+          "quote_count": 6,
+          "reply_count": 263,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "你好，由于你一直刷推特贴子，现在已经刷到基岩层了 https://t.co/UYbwam9ZoL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083052985580736512"
+          ],
+          "media_source_tweet_id": [
+            "2083052992950149494"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083161918433558714",
+        "created_at": "2026-07-31T12:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083161918433558714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883207896768651264",
+              "start": 3,
+              "username": "clem0216"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYbwam9ZoL",
+              "end": 62,
+              "expanded_url": "https://x.com/clem0216/status/2083052992950149494/photo/1",
+              "media_key": "3_2083052985580736512",
+              "start": 39,
+              "url": "https://t.co/UYbwam9ZoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083161918433558714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083052992950149494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clem0216: 你好，由于你一直刷推特贴子，现在已经刷到基岩层了 https://t.co/UYbwam9ZoL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端主义  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 67,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "🚪52 / 同类互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千五百fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPqCil"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.(药代版)",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 1,
+          "like_count": 13660,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1107
+        },
+        "url": "https://t.co/WPFwIPqCil",
+        "username": "clem0216",
+        "verified": true
+      }
+    ]
+  }
+}

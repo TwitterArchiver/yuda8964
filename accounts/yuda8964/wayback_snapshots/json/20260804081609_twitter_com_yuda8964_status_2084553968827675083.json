@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084553968827675083",
+    "created_at": "2026-08-04T08:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084553968827675083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xioyouyu/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/xioyouyu/status/2084156393003831738",
+          "start": 10,
+          "url": "https://t.co/nJw6gjT11A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084553968827675083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084156393003831738",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "红果，。短剧？！🤤 https://t.co/nJw6gjT11A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084553968827675083",
+        "created_at": "2026-08-04T08:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084553968827675083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xioyouyu/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/xioyouyu/status/2084156393003831738",
+              "start": 10,
+              "url": "https://t.co/nJw6gjT11A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084553968827675083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084156393003831738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "红果，。短剧？！🤤 https://t.co/nJw6gjT11A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943697421948903424",
+        "conversation_id": "2084156393003831738",
+        "created_at": "2026-08-03T05:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084156393003831738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084156393003831738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 60924,
+          "like_count": 1438,
+          "quote_count": 18,
+          "reply_count": 199,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "推特和小遗书都在给我制造焦虑，我以后只看红果短剧了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 173,
+          "like_count": 4556,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 412
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T15:42:58.000Z",
+        "description": "我只是一个脆弱的小女孩…",
+        "id": "1943697421948903424",
+        "name": "^-^",
+        "pinned_tweet_id": "2084542519627657456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078117540358955008/woGi4upN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2674,
+          "following_count": 28,
+          "like_count": 654,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "xioyouyu",
+        "verified": false
+      }
+    ]
+  }
+}

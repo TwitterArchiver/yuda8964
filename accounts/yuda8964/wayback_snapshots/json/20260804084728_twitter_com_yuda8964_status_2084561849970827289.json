@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084259988399411621",
+    "created_at": "2026-08-04T08:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084561849970827289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1181533023717580800",
+          "start": 0,
+          "username": "Mikage_Reooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084561849970827289",
+    "in_reply_to_user_id": "1181533023717580800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084259988399411621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mikage_Reooo 帅哥好"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9333,
+        "height": 1280,
+        "media_key": "13_2084259961123864576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084259961123864576/img/z75jFHqM2v-TX3_4.jpg",
+        "public_metrics": {
+          "view_count": 1050
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084259961123864576/vid/avc1/320x568/c_EEZsDHxxo3LlSO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084259961123864576/vid/avc1/480x852/jYy3_ikaDjRix-x1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084259961123864576/vid/avc1/720x1280/0LsJ5xZS4Zi72YzD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084259961123864576/pl/ipQLknLS8qu7hrdi.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084259988399411621",
+        "created_at": "2026-08-04T08:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084561849970827289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1181533023717580800",
+              "start": 0,
+              "username": "Mikage_Reooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084561849970827289",
+        "in_reply_to_user_id": "1181533023717580800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084259988399411621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mikage_Reooo 帅哥好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084259961123864576"
+          ]
+        },
+        "author_id": "1181533023717580800",
+        "conversation_id": "2084259988399411621",
+        "created_at": "2026-08-03T12:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084259988399411621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BqMjBz3IlL",
+              "end": 41,
+              "expanded_url": "https://x.com/Mikage_Reooo/status/2084259988399411621/video/1",
+              "media_key": "13_2084259961123864576",
+              "start": 18,
+              "url": "https://t.co/BqMjBz3IlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084259988399411621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2521,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要折磨我了 离开我别带走我的衣服 https://t.co/BqMjBz3IlL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 173,
+          "like_count": 4578,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 414
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-08T11:33:26.000Z",
+        "description": "🇨🇳🇯🇵性别男 西湖的水我的泪",
+        "id": "1181533023717580800",
+        "location": "Tokyo-to, Japan",
+        "name": "プ-プ",
+        "pinned_tweet_id": "2075590204145144094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077857569897648128/v_-a4hLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 96,
+          "like_count": 1427,
+          "listed_count": 1,
+          "media_count": 344,
+          "tweet_count": 1417
+        },
+        "url": "",
+        "username": "Mikage_Reooo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2075858807847363060",
+    "created_at": "2026-08-03T11:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084235930076959166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1994327130935902208",
+          "start": 0,
+          "username": "LWgsftxEzo39908"
+        },
+        {
+          "end": 28,
+          "id": "1953859279003561984",
+          "start": 17,
+          "username": "lingyugeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084235930076959166",
+    "in_reply_to_user_id": "1994327130935902208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078904606885584921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LWgsftxEzo39908 @lingyugeng 傻狗你叫你懒子呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2075858807847363060",
+        "created_at": "2026-08-03T11:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084235930076959166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1994327130935902208",
+              "start": 0,
+              "username": "LWgsftxEzo39908"
+            },
+            {
+              "end": 28,
+              "id": "1953859279003561984",
+              "start": 17,
+              "username": "lingyugeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084235930076959166",
+        "in_reply_to_user_id": "1994327130935902208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078904606885584921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LWgsftxEzo39908 @lingyugeng 傻狗你叫你懒子呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994327130935902208",
+        "conversation_id": "2075858807847363060",
+        "created_at": "2026-07-19T18:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078904606885584921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1953859279003561984",
+              "start": 0,
+              "username": "lingyugeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078904606885584921",
+        "in_reply_to_user_id": "1953859279003561984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1059,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075858807847363060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingyugeng 二次元女生头像，男娘，爱猫人士，精神病患，绿毛龟他妈的buff叠满了，鉴定为完美无死角废物，而且长得真鸡巴丑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 169,
+          "like_count": 3681,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T08:47:13.000Z",
+        "description": "",
+        "id": "1994327130935902208",
+        "name": "陈渔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079855985364004864/2csaaaIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 33,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "LWgsftxEzo39908",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T16:42:26.000Z",
+        "description": "安徽/男/175/106/命比愈美苦三分/给我钱/",
+        "id": "1953859279003561984",
+        "name": "泡面和猫",
+        "pinned_tweet_id": "2075858807847363060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078552560940843008/3eFcKlQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 96,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 757
+        },
+        "url": "",
+        "username": "lingyugeng",
+        "verified": false
+      }
+    ]
+  }
+}

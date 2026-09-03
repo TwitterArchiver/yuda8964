@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1679905283068555265",
+    "conversation_id": "2084021972292468999",
+    "created_at": "2026-08-03T08:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T09:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084188201993056650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1705494319845523456",
+          "start": 0,
+          "username": "Blutengel3366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084188201993056650",
+    "in_reply_to_user_id": "1705494319845523456",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084123322640633925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blutengel3366 ❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2084021972292468999",
+        "created_at": "2026-08-03T08:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084188201993056650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1705494319845523456",
+              "start": 0,
+              "username": "Blutengel3366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084188201993056650",
+        "in_reply_to_user_id": "1705494319845523456",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084123322640633925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blutengel3366 ❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705494319845523456",
+        "conversation_id": "2084021972292468999",
+        "created_at": "2026-08-03T03:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084123322640633925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1679905283068555265",
+              "start": 0,
+              "username": "yuda8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084123322640633925",
+        "in_reply_to_user_id": "1679905283068555265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084021972292468999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda8964 消消毒呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  加巴喷丁神教  极端  嗑大了会说胡话  梗图  请随便骚扰我  记住我们的街头手势🙌👋👍👎👊✊✌️👌✋🤌🤏👐☝️👆👇👈👉🖕🤘🖖🖐️🤙🤛🤜🤝🤟🤞🤲🦶🦵  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 168,
+          "like_count": 3301,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T08:08:43.000Z",
+        "description": "空格互fo",
+        "id": "1705494319845523456",
+        "location": "Kanagawa-ken, Japan",
+        "name": "Vex",
+        "pinned_tweet_id": "2081758032409907365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083758222842970112/dmJmd_jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 23,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "Blutengel3366",
+        "verified": false
+      }
+    ]
+  }
+}
